@@ -1,0 +1,2494 @@
+<entailment-corpus>
+<pair id="754" value="TRUE" task="CD">
+<t>
+Mexico City has a very bad pollution problem because the mountains around the city act as walls and block in dust and smog.
+</t>
+<h>
+Poor air circulation out of the mountain-walled Mexico City aggravates pollution.
+</h>
+</pair>
+<pair id="822" value="TRUE" task="CD">
+<t>Satomi Mitarai died of blood loss.</t>
+<h>Satomi Mitarai bled to death.</h>
+</pair>
+<pair id="692" value="TRUE" task="CD">
+<t>
+The national insurrection of 1794, led by Tadeusz Kosciuszko against the Russo-Prussian second partition, was brutally crushed; the ensuing third partition of Poland among Russia, Prussia, and Austria left Warsaw a provincial town of South Prussia.
+</t>
+<h>Warsaw became a town in Prussia.</h>
+</pair>
+<pair id="731" value="FALSE" task="CD">
+<t>
+The city Tenochtitlan grew rapidly and was the center of the Aztec's great empire.
+</t>
+<h>
+Tenochtitlan quickly spread over the island, marshes, and swamps.
+</h>
+</pair>
+<pair id="1865" value="FALSE" task="CD">
+<t>
+Militant groups in Iraq have waged a kidnapping campaign aimed at driving out U.S. supporting companies and troops.
+</t>
+<h>
+About 70 foreigners have been abducted by militants fighting the U.S.-led occupation and reconstruction efforts in Iraq.
+</h>
+</pair>
+<pair id="864" value="TRUE" task="CD">
+<t>
+Massoud Emami, governor of Iran's northwestern province of Qazvin, and at least 8 others on abroad a helicopter were killed in a crash.
+</t>
+<h>
+Governor of Iran's Qazvin province, Massoud Emami, and eight others were killed
+</h>
+</pair>
+<pair id="704" value="TRUE" task="CD">
+<t>
+In 1541 the Turks took the Buda and held it until 1686; the city changed very little during this time.
+</t>
+<h>The Turks held Buda between 1541 and 1686.</h>
+</pair>
+<pair id="1376" value="FALSE" task="CD">
+<t>
+Hyperhidrosis is more common than you think. This condition affects 1 out of 25 people.
+</t>
+<h>
+Asians have an even higher rate of incidence---1 of every 5 suffers from hyperhidrosis.
+</h>
+</pair>
+<pair id="755" value="FALSE" task="CD">
+<t>
+The Alameda Central ( Central Mall ) roughly marks the western edge of the old colonial city.
+</t>
+<h>The Alameda Central is west of the Zocalo.</h>
+</pair>
+<pair id="1808" value="TRUE" task="CD">
+<t>
+Vanunu converted to Christianity while in prison, and has been living in an anglican cathedral in Jerusalem since his release on April 21.
+</t>
+<h>
+A convert to Christianity, Vanunu has sequestered himself at a Jerusalem church since he was freed on April 21.
+</h>
+</pair>
+<pair id="837" value="TRUE" task="CD">
+<t>
+The Clark County medical examiner's office said the man who was killed was 33 years old.
+</t>
+<h>
+The Clark County medical examiner's office put the dead man's age at 33.
+</h>
+</pair>
+<pair id="2144" value="FALSE" task="CD">
+<t>
+President Nicanor Duarte Frutos asked the private sector to help the state's overwhelmed public health system.
+</t>
+<h>
+President Nicanor Duarte called the tragedy "a moment of great anguish" for his country as he visited the scene.
+</h>
+</pair>
+<pair id="845" value="TRUE" task="CD">
+<t>
+Israeli Prime Minister Ariel Sharon threatened to dismiss Cabinet ministers who don't support his plan to withdraw from the Gaza Strip.
+</t>
+<h>
+Israeli Prime Minister Ariel Sharon threatened to fire cabinet opponents of his Gaza withdrawal plan.
+</h>
+</pair>
+<pair id="747" value="TRUE" task="CD">
+<t>
+The city was traditionally inhabited by mestizos ( people of mixed European and Indian descent ) and criollos ( Mexicans of European descent ), but steady immigration from the countryside has given it a more Indian character.
+</t>
+<h>
+People known as mestizos are of mixed European and Indian descent.
+</h>
+</pair>
+<pair id="1401" value="FALSE" task="CD">
+<t>
+Excluding restructuring costs and the associated tax impact, net income for the recent quarter would have been $4 million, Seagate said.
+</t>
+<h>
+Excluding these items, Seagate would have posted earnings of $462 million, or 93 cents a share.
+</h>
+</pair>
+<pair id="1383" value="TRUE" task="CD">
+<t>
+The crew of Apollo 11, Neil Armstrong, Buzz Aldrin and Michael Collins, and other early astronauts were named "Ambassadors of Exploration" in a ceremony at the Smithsonian National Air and Space Museum.
+</t>
+<h>
+Aldrin was one of the astronauts honored by NASA at the Smithsonian National Air and Space Museum.
+</h>
+</pair>
+<pair id="863" value="FALSE" task="CD">
+<t>
+The governor of Qazvin province Massoud Emami, his deputy, the province's head of police and three crew died when a helicopter taking them to inspect the earthquake zone crashed on Saturday.
+</t>
+<h>
+Massoud Emami, governor of Iran's northwestern province of Qazvin, and at least 9 others on abroad a helicopter were killed in a crash Saturday afternoon.
+</h>
+</pair>
+<pair id="858" value="TRUE" task="CD">
+<t>
+Each hour spent in a car was associated with a 6 percent increase in the likelihood of obesity and each half-mile walked per day reduced those odds by nearly 5 percent, the researchers found.
+</t>
+<h>
+The more driving you do means you're going to weigh more -- the more walking means you're going to weigh less.
+</h>
+</pair>
+<pair id="1363" value="FALSE" task="CD">
+<t>
+A Filipino truck driver held hostage in Iraq for two weeks has been freed, a day after Manila withdrew its troops in response to demands from kidnappers who had threatened to behead him.
+</t>
+<h>
+Egyptian driver Mohammed al-Gharabawi was freed after the Saudi firm he worked for met kidnappers' demands by promising to stop doing work in Iraq.
+</h>
+</pair>
+<pair id="861" value="FALSE" task="CD">
+<t>
+Customers are starting to feel more comfortable with open source software, and they are even more comfortable if a big company like H-P stands behind it, said Bob Bickel, vice president for corporate strategy and development at JBoss.
+</t>
+<h>
+Bob Bickel, vice president of strategy and corporate development at JBoss, said commercial use remains somewhat constrained because a CIO doesn't know whom they can turn to for support.
+</h>
+</pair>
+<pair id="2149" value="FALSE" task="CD">
+<t>
+Some neighbors said they were forced to break windows to enter the supermarket because the doors wouldn't open.
+</t>
+<h>
+Many survivors said they were unable to open locked doors as they tried to flee the complex.
+</h>
+</pair>
+<pair id="836" value="TRUE" task="CD">
+<t>A Union Pacific freight train hit five people.</t>
+<h>A Union Pacific freight train struck five people.</h>
+</pair>
+<pair id="1417" value="FALSE" task="CD">
+<t>
+The plaintiffs are also concerned by suggestions the bones may have deteriorated in the eight years since they was pulled from the sediment.
+</t>
+<h>
+The number of pieces of skeleton have grown since they've been lying in the cabinet.
+</h>
+</pair>
+<pair id="843" value="TRUE" task="CD">
+<t>
+Ghazi Yawar, a Sunni Muslim who lived for years in Saudi Arabia, has been picked as president of Iraq after the favored U.S. choice, Adnan Pachachi, declined to take the job.
+</t>
+<h>Yawer is a Sunni Muslim.</h>
+</pair>
+<pair id="821" value="TRUE" task="CD">
+<t>
+Last July, a 12-year-old boy in Nagasaki - a city just north of Sasebo - was accused of kidnapping, molesting and killing a 4-year-old by shoving him off the roof of a car garage.
+</t>
+<h>
+Last year a 12-year-old boy in Nagasaki was accused of murdering a four-year-old boy by pushing him off a roof.
+</h>
+</pair>
+<pair id="756" value="FALSE" task="CD">
+<t>
+Mexico City has a very bad pollution problem because the mountains around the city act as walls and block in dust and smog.
+</t>
+<h>
+Air pollution -- made up mostly of ozone, suspended particles, and sulfur dioxide -- has affected the climate by partially blocking the Sun's rays.
+</h>
+</pair>
+<pair id="1859" value="FALSE" task="CD">
+<t>
+A plane carrying 200 French Jewish immigrants has landed in Israel, at a time of strained diplomatic relations between Israel and France.
+</t>
+<h>
+Nearly 2,000 Jews emigrate from France to Israel every year.
+</h>
+</pair>
+<pair id="1370" value="FALSE" task="CD">
+<t>
+Palestinian Prime Minister Ahmed Qureia has withdrawn his resignation, and agreed to stay on in his post at the urging of Palestinian President Yasser Arafat.
+</t>
+<h>
+Palestinian Prime Minister Ahmed Quriea will stay in his post but did not formally withdraw his resignation.
+</h>
+</pair>
+<pair id="2113" value="FALSE" task="CD">
+<t>
+Five people were killed in another suicide bomb blast at a police station in the northern city of Mosul.
+</t>
+<h>
+Five people were killed and 20 others wounded in a car bomb explosion outside an Iraqi police station south of Baghdad.
+</h>
+</pair>
+<pair id="1368" value="TRUE" task="CD">
+<t>
+Japan has long sought to overturn a 1986 ban on all commercial whaling, and its proposal to allow the hunting of minke whales in the Antarctic came at the IWC's annual meeting in Italy, which, as in past years, has been dominated by the issue.
+</t>
+<h>
+Commercial whale hunting has been banned by the IWC.
+</h>
+</pair>
+<pair id="742" value="FALSE" task="CD">
+<t>
+The Palace of Fine Arts is the home of the famous Mexican Ballet Folklorico, which is known for its colorful costumes as well as its dancing.
+</t>
+<h>
+The downtown Palace of Fine Arts is the traditional concert and opera hall.
+</h>
+</pair>
+<pair id="1867" value="FALSE" task="CD">
+<t>
+Landslides, collapsing houses, drowning, disease and snake bites have brought the death toll across South Asia to 1,338.
+</t>
+<h>
+Deaths from monsoon rains across South Asia hit 1,300.
+</h>
+</pair>
+<pair id="893" value="TRUE" task="CD">
+<t>
+The first settlements on the site of Jakarta were established at the mouth of the Ciliwung, perhaps as early as the 5th century AD.
+</t>
+<h>
+The first settlements on the site of Jakarta were established as early as the 5th century AD.
+</h>
+</pair>
+<pair id="828" value="FALSE" task="CD">
+<t>
+Jennifer Hawkins is the 21-year-old beauty queen from Australia.
+</t>
+<h>
+Jennifer Hawkins is Australia's 20-year-old beauty queen.
+</h>
+</pair>
+<pair id="841" value="TRUE" task="CD">
+<t>
+Shrek 2 retained the top spot with $92.2 million over the long Memorial Day weekend, fending off the global-catastrophe tale "The Day After Tomorrow," which debuted with $86 million, according to studio estimates Monday.
+</t>
+<h>
+Shrek 2 retained the top spot with $92.2-million over the long weekend, fending off the global-catastrophe tale The Day After Tomorrow, which debuted with $86-million, according to studio estimates.
+</h>
+</pair>
+<pair id="885" value="TRUE" task="CD">
+<t>
+I'm doing everything to be prepared for the Olympics so I can achieve something for my country, she said, speaking at the country's only studio for female judo players.
+</t>
+<h>
+I'm doing everything to be prepared for the Olympics so I can achieve something for my country, she said, speaking at the country's only studio for female judokas.
+</h>
+</pair>
+<pair id="716" value="TRUE" task="CD">
+<t>
+The city has marked topographical contrasts: Buda is built on the higher river terraces and hills of the western side, while the considerably larger Pest spreads out on a flat and featureless sand plain on the river's opposite bank.
+</t>
+<h>Pest is on the opposite, east bank.</h>
+</pair>
+<pair id="1407" value="FALSE" task="CD">
+<t>
+It's troubling that it took an eight-year, multimillion-dollar legal fight with a government that was bent on siding with religion over the right to study a 9,300-year-old skeleton.
+</t>
+<h>An 8-year fight ends over a 9,200-year-old man.</h>
+</pair>
+<pair id="1380" value="FALSE" task="CD">
+<t>
+On the 35th anniversary of the first lunar landing, NASA struggled with money problems as it aimed to return to human space flight after the Columbia disaster and ultimately put people back on the moon.
+</t>
+<h>
+NASA paid tribute to America's first generation of astronauts to mark the 35th anniversary of the first moon walk.
+</h>
+</pair>
+<pair id="2162" value="FALSE" task="CD">
+<t>
+Staten Island ferry captain Michael Gansas has refused to talk with investigators.
+</t>
+<h>
+City officials fired the captain of the crashed Staten Island ferry.
+</h>
+</pair>
+<pair id="1393" value="TRUE" task="CD">
+<t>
+The directive, issued by Vietnam's Minister of Post and Telecommunications Do Trung Ta on Monday, is the latest in a string of measures unveiled in recent months to prevent "bad and poisonous information" being circulated online.
+</t>
+<h>
+The regulations are the latest ones in a string of recent measures aimed at cracking down on "bad information" circulated over the Internet.
+</h>
+</pair>
+<pair id="882" value="FALSE" task="CD">
+<t>
+The Taliban's rule from 1996 to 2001 was a dark period for Afghan athletes, especially girls and women.
+</t>
+<h>
+Rezzay came home after the Taliban were toppled by Afghan opposition forces in 2001
+</h>
+</pair>
+<pair id="887" value="FALSE" task="CD">
+<t>
+Mr Sadr is wanted by the U.S. in connection with the assassination of a rival cleric in April 2003.
+</t>
+<h>
+U.S. troops seized a relative and senior lieutenant to Sadr, who was also wanted for murder.
+</h>
+</pair>
+<pair id="736" value="TRUE" task="CD">
+<t>
+The city's main industries are construction and the production of chemicals, plastics, cement, and yarns and textiles.
+</t>
+<h>
+The city's products include chemicals, plastics, cement, yarns, and textiles.
+</h>
+</pair>
+<pair id="2151" value="FALSE" task="CD">
+<t>
+Some bodies were found still seated in their cars, blackened from the intense heat.
+</t>
+<h>
+Badly burned bodies could be seen as they were taken away after the fire.
+</h>
+</pair>
+<pair id="2157" value="FALSE" task="CD">
+<t>
+Combined with oil prices still hovering near $44 a barrel.
+</t>
+<h>The company's shares were down 44 cents.</h>
+</pair>
+<pair id="1411" value="FALSE" task="CD">
+<t>
+The accidental discovery of its skull by two young men walking along the Columbia River caused a sensation, not only because of its age but also because some features did not resemble those of modern American Indians, as would have been expected then.
+</t>
+<h>
+The skeleton, among the oldest in America, bears little physical resemblance to any present-day Americans.
+</h>
+</pair>
+<pair id="1862" value="FALSE" task="CD">
+<t>
+A suicide attacker killed 51 people when he exploded a bomb-laden vehicle outside a central Baqouba police station Wednesday.
+</t>
+<h>
+70 people were killed Wednesday when a suicide bomber detonated an explosive-packed sedan on a busy Baqouba street.
+</h>
+</pair>
+<pair id="2163" value="FALSE" task="CD">
+<t>
+Google apparently doesn't handle bureaucratic paperwork as smoothly as its online search engine sorts through billions of Web pages.
+</t>
+<h>
+Google Inc. is delaying its IPO by a week because of logistical problems related to institutional investors registering to bid on the shares.
+</h>
+</pair>
+<pair id="1372" value="FALSE" task="CD">
+<t>
+The latest French government figures show 510 anti-Jewish acts or threats in the first six months of 2004 - compared with 593 for all of last year.
+</t>
+<h>
+There are growing anti-Jewish sentiments and incidents in France as more than 300 anti-Semitic attacks have been reported in France so far this year, which is more than in all of 2003.
+</h>
+</pair>
+<pair id="899" value="TRUE" task="CD">
+<t>
+The Dutch name Batavia remained the internationally recognized name until full Indonesian independence was achieved and Djakarta was officially proclaimed the national capital ( and its present name recognized ) on December 27, 1949.
+</t>
+<h>
+Indonesia gained independence in 1949, and the name of the city was changed to Djakarta.
+</h>
+</pair>
+<pair id="807" value="TRUE" task="CD">
+<t>
+Witnesses said the gunman was wearing gray pants and a tan jacket and was carrying a gray bag.
+</t>
+<h>
+Witnesses said the gunman was wearing gray pants and a tan jacket, and carrying a gray bag.
+</h>
+</pair>
+<pair id="1853" value="FALSE" task="CD">
+<t>
+Prime Minister Allawi has sent out letters to countries that might be candidates.
+</t>
+<h>
+Prime Minister Allawi will return to Iraq in time for the country's national conference.
+</h>
+</pair>
+<pair id="868" value="FALSE" task="CD">
+<t>
+Several other people, including a woman and two children, suffered injuries in the incident.
+</t>
+<h>
+Several people were slightly wounded, including a woman and three children
+</h>
+</pair>
+<pair id="832" value="TRUE" task="CD">
+<t>
+As oil prices soared to new heights after a terrorist attack in Saudi Arabia, the nation's influential oil minister tried to reassure markets yesterday that OPEC would do its best to provide adequate supplies.
+</t>
+<h>
+As oil prices soared after a terrorist attack in Saudi Arabia, the nation's oil minister tried to reassure markets that OPEC will try to provide adequate supplies.
+</h>
+</pair>
+<pair id="1361" value="TRUE" task="CD">
+<t>A Filipino hostage in Iraq was released.</t>
+<h>A Filipino hostage was freed in Iraq.</h>
+</pair>
+<pair id="880" value="TRUE" task="CD">
+<t>
+The Greek government is spending over 1 billion euros.
+</t>
+<h>Greece is spending over 1 billion euros.</h>
+</pair>
+<pair id="850" value="TRUE" task="CD">
+<t>
+Cinemas showing the new Harry Potter film are being issued with night vision goggles in a bid to stamp out piracy.
+</t>
+<h>
+Night vision goggles have been distributed along with the film.
+</h>
+</pair>
+<pair id="715" value="TRUE" task="CD">
+<t>
+The city has marked topographical contrasts: Buda is built on the higher river terraces and hills of the western side, while the considerably larger Pest spreads out on a flat and featureless sand plain on the river's opposite bank.
+</t>
+<h>
+Buda features many hills, while Pest is relatively flat.
+</h>
+</pair>
+<pair id="1412" value="TRUE" task="CD">
+<t>
+Anthropologists say that Kennewick man's remains are part of an expanding body of evidence showing that American Indians, long thought to have been the original inhabitants of the Americas, may not have been the first people to live on the continents.
+</t>
+<h>
+Scientists say that Kennewick man's skeleton could provide valuable information about the early settling of the Americas.
+</h>
+</pair>
+<pair id="2168" value="FALSE" task="CD">
+<t>
+The Friday before she was reported missing, Lori Hacking, 27, left work stunned and sobbing.
+</t>
+<h>
+Hacking said she had gone jogging and never showed up for work.
+</h>
+</pair>
+<pair id="696" value="TRUE" task="CD">
+<t>
+In terms of music, the National Philharmonic Orchestra draws large crowds.
+</t>
+<h>
+The National Philharmonic orchestra draws large crowds.
+</h>
+</pair>
+<pair id="725" value="TRUE" task="CD">
+<t>
+It soon became the most important city of the Americas, with jurisdiction extending well into the present United States and as far south as Panama.
+</t>
+<h>
+It soon became the most important city of the Americas.
+</h>
+</pair>
+<pair id="2176" value="FALSE" task="CD">
+<t>
+China has virtually refused Korean demands that it correct distortions of Koguyro history.
+</t>
+<h>Few Koreans doubt that Koguryo belonged to Korea.</h>
+</pair>
+<pair id="892" value="TRUE" task="CD">
+<t>
+There are also tanneries, sawmills, textile mills, food-processing plants, breweries, and a film industry in the city.
+</t>
+<h>Movies are also made in the city.</h>
+</pair>
+<pair id="1860" value="FALSE" task="CD">
+<t>
+They were greeted by Israeli Prime Minister Ariel Sharon, who recently urged French Jews to flee to Israel to escape rising anti-Semitism.
+</t>
+<h>
+Sharon praised France for 'determined action' against anti-Semitism.
+</h>
+</pair>
+<pair id="847" value="TRUE" task="CD">
+<t>
+On hand to meet him with Mbeki were the Deputy Foreign Affairs Minister, Health Minister, Transport Minister, Defence Minister and director general in the presidency, Reverend Frank Chikane.
+</t>
+<h>
+On hand to meet him with Mbeki were the Deputy Foreign Affairs Minister, Health Minister, Transport Minister, Defence Minister and director general in the presidency, Rev Frank Chikane.
+</h>
+</pair>
+<pair id="1365" value="FALSE" task="CD">
+<t>
+Japan wants to hunt more than 3,000 minke whales for meat that could be worth $300 million.
+</t>
+<h>Japan is the world's prime consumer of whale meat.</h>
+</pair>
+<pair id="2153" value="TRUE" task="CD">
+<t>
+The GDP, which measures the value of all goods and services in the nation, rose at an annual rate of 3 percent in the second quarter, compared to a 4.5 percent rise in the first quarter.
+</t>
+<h>
+Gross domestic product, a measure of total output within the nation's borders, climbed at a 3% annual pace in the April-June period.
+</h>
+</pair>
+<pair id="1418" value="TRUE" task="CD">
+<t>
+Scientists on Earth, too, are gathering data on Mars: researchers from the U.S. Antarctic Search for Meteorites Program announced yesterday the discovery of a Martian meteorite recovered 750 kilometers from the South Pole.
+</t>
+<h>
+A Martian meteorite was discovered by scientists in Antarctica.
+</h>
+</pair>
+<pair id="734" value="FALSE" task="CD">
+<t>
+The Aztec Indians founded a city on the site of modern-day Mexico City in the 14th century.
+</t>
+<h>
+The Aztecs arrived in the Valley of Mexico in the 13th century.
+</h>
+</pair>
+<pair id="760" value="TRUE" task="CD">
+<t>
+The Alameda Central, west of the Zocalo, was created in 1592.
+</t>
+<h>The Alameda Central is west of the Zocalo.</h>
+</pair>
+<pair id="1866" value="FALSE" task="CD">
+<t>
+The death toll is worst in India, however, with 686 fatalities so far.
+</t>
+<h>
+Flooding and related problems have killed 768 people in India.
+</h>
+</pair>
+<pair id="1389" value="FALSE" task="CD">
+<t>
+NASA Administrator Sean O'Keefe presented the Apollo, Gemini and Mercury astronauts and survivors with commemorative plaques - each containing a small piece of lunar rock.
+</t>
+<h>
+NASA Administrator Sean O'Keefe has said shuttle astronauts will not make a repair call to the orbiting observatory because it would be too risky.
+</h>
+</pair>
+<pair id="862" value="TRUE" task="CD">
+<t>
+The search has focused on the Hangman's Cell, reputedly where 141 French prisoners of war were executed, and the 18th Century Master Ropemaker's House.
+</t>
+<h>
+The investigation focused on the hangman's cell, where 141 French prisoners-of-war were said to have been executed, as well at the 18th-century Master Ropemaker's House.
+</h>
+</pair>
+<pair id="872" value="TRUE" task="CD">
+<t>
+The South Side store, part of a redevelopment of an abandoned steel plant, fell by a 25-21 vote. Passage required a majority of 26 votes in the 50-member council.
+</t>
+<h>Approval for a second store fell one vote short.</h>
+</pair>
+<pair id="898" value="TRUE" task="CD">
+<t>
+After the war the city was briefly occupied by the Allies and then was returned to the Dutch.
+</t>
+<h>After the war, the city was returned to the Dutch.</h>
+</pair>
+<pair id="743" value="TRUE" task="CD">
+<t>
+Mexico City has always been one of the main cultural centers of Latin America, and much of the culture there is uniquely Mexican.
+</t>
+<h>
+Mexico City has always been one of the prominent cultural centres of Latin America.
+</h>
+</pair>
+<pair id="1869" value="FALSE" task="CD">
+<t>
+John Edwards praised John Kerry as a man tested by war for national command.
+</t>
+<h>
+John Edwards's speech failed to mention President Bush or Vice President Dick Cheney.
+</h>
+</pair>
+<pair id="1809" value="TRUE" task="CD">
+<t>
+"I want to go abroad and start my life as a free man. If Israel is a democracy it should allow me to do it," Vanunu told reporters at the court.
+</t>
+<h>
+Vanunu says he wants to start a new life in another country.
+</h>
+</pair>
+<pair id="1390" value="TRUE" task="CD">
+<t>
+Only around four million people out of a population of 81 million people regularly surf the Internet in Vietnam, mainly through cyber-cafes.
+</t>
+<h>
+About four million people out of Vietnam's population of 81 million regularly use the Internet.
+</h>
+</pair>
+<pair id="729" value="FALSE" task="CD">
+<t>
+When the Spaniards led by Hernan Cortes arrived in 1519, Tenochtitlan had about 100,000 inhabitants.
+</t>
+<h>
+In 1519, Aztec culture was forever changed when the Spaniards arrived.
+</h>
+</pair>
+<pair id="1828" value="FALSE" task="CD">
+<t>
+More than 100 people were killed in a suicide bombing and clashes Wednesday as Iraq's interim government marked its first month in office.
+</t>
+<h>
+A minibus packed with explosives blew up near a police station and a market north of Baghdad, Iraq Wednesday, killing 68 people and wounding 30 in the worst attack since the handover of power exactly one month ago.
+</h>
+</pair>
+<pair id="1398" value="TRUE" task="CD">
+<t>
+Seagate Technology Inc. reported a loss of $33 million on revenue of $1.34 billion.
+</t>
+<h>
+Seagate Technology Inc. posted revenues of $1.34 billion.
+</h>
+</pair>
+<pair id="1863" value="FALSE" task="CD">
+<t>
+36 insurgents and 7 Iraqi soldiers were killed in a joint raid by Iraqi and foreign troops south of Baghdad.
+</t>
+<h>
+Seven Iraqi troops and 35 insurgents were killed in fierce fighting near Suwariya, 20 miles southeast of Baghdad.
+</h>
+</pair>
+<pair id="852" value="FALSE" task="CD">
+<t>
+Night vision goggles have been distributed along with the film to Vue Cinemas, formerly known as Warner Village, in the UK.
+</t>
+<h>
+Vue Cinemas - formerly Warner Village - have asked staff to check that audience members do not use video cameras to make pirate copies of the film.
+</h>
+</pair>
+<pair id="883" value="TRUE" task="CD">
+<t>
+When they returned home after the Taleban had been toppled by Afghan opposition forces, Rezzay knew exactly what she wanted to do.
+</t>
+<h>
+When they came home after the Taliban were toppled by Afghan opposition forces, Rezzay knew exactly what she wanted to do.
+</h>
+</pair>
+<pair id="856" value="TRUE" task="CD">
+<t>
+Oil prices may be jolted higher on Tuesday when key markets reopen from a long holiday weekend that saw the second attack in less than a month on Saudi Arabia, the world's top crude exporter.
+</t>
+<h>Markets reopen Tuesday after the holiday weekend.</h>
+</pair>
+<pair id="2148" value="FALSE" task="CD">
+<t>
+Many survivors said they were unable to open locked doors as they tried to flee the complex.
+</t>
+<h>
+Some neighbors said they were forced to break windows to enter the supermarket because the doors wouldn't open.
+</h>
+</pair>
+<pair id="1385" value="FALSE" task="CD">
+<t>
+Just hours before the gathering, a House appropriations subcommittee voted to cut $1.1 billion from NASA's budget request for the next fiscal year.
+</t>
+<h>
+The National Aeronautics and Space Administration would get $229 million less than it did in 2004 and $1.1 billion less than President Bush requested, if a spending bill approved by a U.S. House of Representatives subcommittee becomes law.
+</h>
+</pair>
+<pair id="840" value="FALSE" task="CD">
+<t>
+Two candidates for the new Iraqi president are 81-year-old Pachachi and Sunni tribal leader Yawar.
+</t>
+<h>Pachachi and Yawer are Sunni Muslim Arabs.</h>
+</pair>
+<pair id="876" value="TRUE" task="CD">
+<t>
+Officials said Michael Hamilton was killed when gunmen opened fire and exchanged shots with Saudi security forces yesterday
+</t>
+<h>Michael Hamilton died yesterday.</h>
+</pair>
+<pair id="1813" value="FALSE" task="CD">
+<t>
+About 10 minutes after take-off on Monday, Yang told the crew that he had companions on board carrying sulphuric acid that they would throw over passengers unless the plane headed for South Korea,
+</t>
+<h>
+Approximately 50 minutes into the flight, a man whose seat number was F12 came near the cockpit in an attempt to hijack the plane, saying he wanted to go to Korea.
+</h>
+</pair>
+<pair id="758" value="FALSE" task="CD">
+<t>
+The capital of Mexico, Mexico City is one of the oldest cities in North America and one of the largest cities in the world.
+</t>
+<h>
+Spanish Mexico, or Ciudad de Mexico, ancient ( Nahua, or Aztec ) Tenochtitlan city, capital of Mexico.
+</h>
+</pair>
+<pair id="2146" value="FALSE" task="CD">
+<t>
+Some witnesses said victims were not able to escape the flames because the exits had been locked, possibly to avoid robberies, a claim denied by Juan Pio Paiva, the supermarket's owner.
+</t>
+<h>Witnesses told police a gas canister exploded.</h>
+</pair>
+<pair id="726" value="TRUE" task="CD">
+<t>
+Cortes razed Tenochtitlan in 1521 and constructed a Spanish city on its ruins.
+</t>
+<h>
+Cortes quickly destroyed Tenochtitlan and built a Spanish city in its place.
+</h>
+</pair>
+<pair id="888" value="TRUE" task="CD">
+<t>
+Among other cultural activities, the Taman Ismail Marzuki centre has facilities for traditional or classical art performances as well as theatres for presenting modern plays and concerts; the centre also has a planetarium.
+</t>
+<h>
+The Taman Ismail Marzuki center also has theaters for presenting modern plays and concerts.
+</h>
+</pair>
+<pair id="825" value="TRUE" task="CD">
+<t>
+A car bomb that exploded outside a U.S. military base near Beiji, killed 11 Iraqis.
+</t>
+<h>
+A car bomb exploded outside a U.S. base in the northern town of Beiji, killing 11 Iraqis.
+</h>
+</pair>
+<pair id="878" value="TRUE" task="CD">
+<t>
+A British oil executive was one of 16 people killed in the Saudi Arabian terror attack.
+</t>
+<h>
+A British oil company executive was killed in the terrorist attack in Saudi Arabia
+</h>
+</pair>
+<pair id="2155" value="FALSE" task="CD">
+<t>
+The GDP rose at an annual rate of 3 percent in the second quarter.
+</t>
+<h>
+The weaker-than-expected GDP number gave Wall Street more to worry about in terms of how strong the economy will perform in the second half of this year.
+</h>
+</pair>
+<pair id="1861" value="TRUE" task="CD">
+<t>
+At the welcoming ceremony, Sharon appeared to try to correct the damage from his earlier statements, saying anti-Semitism threatens the Western world, without singling out France.
+</t>
+<h>
+Sharon said anti-Semitism threatened the Western world, but he did not single out France.
+</h>
+</pair>
+<pair id="894" value="TRUE" task="CD">
+<t>
+The city's official history, however, starts in 1527, when the sultan of Bantam defeated the Portuguese there and called the place Jayakerta ( Sundanese: "Glorious Fortress").
+</t>
+<h>
+The city's official history starts in 1527, when a local ruler defeated the Portuguese there and called the place Jayakerta.
+</h>
+</pair>
+<pair id="2112" value="FALSE" task="CD">
+<t>
+Four people were killed and a US helicopter shot down in Najaf.
+</t>
+<h>
+Five people were killed and an American helicopter was shot down in Najaf.
+</h>
+</pair>
+<pair id="759" value="TRUE" task="CD">
+<t>
+Mexico City lies in an endorheic ( characterized by interior drainage ) basin at an altitude of approximately 7,350 feet ( 2,240 metres).
+</t>
+<h>
+Mexico City is about 7,350 feet (2,240 meters) above sea level.
+</h>
+</pair>
+<pair id="751" value="TRUE" task="CD">
+<t>
+At the southeastern tip of the city, Xochimilco, another small town subsumed by the city, is a popular tourist destination because of its chinampas, or "floating gardens," boats made out of reeds on which the Indians have grown plants since pre-Columbian times.
+</t>
+<h>
+At the southeastern tip of the city lies a small town called Xochimilco.
+</h>
+</pair>
+<pair id="859" value="FALSE" task="CD">
+<t>
+There are similarities between us and Microsoft in that we believe in getting developer adoption and building community, and (Microsoft) has always done a great job in ease of use, said Zack Urlocker, vice president of marketing at MySQL, based in Uppsala, Sweden.
+</t>
+<h>
+MySQL Vice President of Marketing Zack Urlocker said companies such as Sabre are using an open source stack for business applications.
+</h>
+</pair>
+<pair id="1854" value="FALSE" task="CD">
+<t>
+The Bush administration has long sought to augment the force with more Muslim troops.
+</t>
+<h>
+It was not clear whether a UN security council resolution would be required to authorise a Muslim force.
+</h>
+</pair>
+<pair id="1405" value="TRUE" task="CD">
+<t>
+Napster was originally a free pioneer file-swapping service, which was forced to shut down in 2001 after a painstaking legal battle with recording companies.
+</t>
+<h>
+The original Napster shut down after the music industry sued.
+</h>
+</pair>
+<pair id="2145" value="FALSE" task="CD">
+<t>
+Witnesses told police a gas canister exploded to start the fire in a multilevel building which houses the Ycua Bolanos supermarket, a food court and a parking garage, causing the bottom floor to collapse.
+</t>
+<h>
+Some witnesses said victims were not able to escape the flames.
+</h>
+</pair>
+<pair id="2117" value="FALSE" task="CD">
+<t>
+Abu Musa al-Hindi is one of the 13 men picked up in coordinated raids across the country.
+</t>
+<h>Bilal was arrested along with other 12 men.</h>
+</pair>
+<pair id="2171" value="FALSE" task="CD">
+<t>
+The attorney for Mark Hacking said he will raise the issue of mental illness and challenge his client's confession to relatives that he killed his wife, Lori, and dumped her body in a garbage bin.
+</t>
+<h>
+Hacking reportedly made the statement to his brothers when he was a psychiatric patient in the hospital.
+</h>
+</pair>
+<pair id="2167" value="FALSE" task="CD">
+<t>Microsoft delays release of Windows XP update.</t>
+<h>
+Microsoft to begin shipping major update to Windows
+</h>
+</pair>
+<pair id="853" value="TRUE" task="CD">
+<t>
+I love it, it's just such fun, said Harry Potter author JK Rowling, who is estimated to have earned £435m from her creation.
+</t>
+<h>
+The Potter books netted an estimated £435 million for Ms Rowling.
+</h>
+</pair>
+<pair id="904" value="TRUE" task="CD">
+<t>
+Korean Seoul, formally Soul-t'ukpyolsi ( "Special City of Seoul" ), largest city and capital of the Republic of Korea ( South Korea ), located in the northwestern part of the country on the Han-gang (Han River ) 37 miles ( 60 kilometres ) from the Yellow Sea.
+</t>
+<h>
+Seoul is on the Han River in the northwestern part of South Korea, about 37 miles ( 60 kilometers ) from the Yellow Sea.
+</h>
+</pair>
+<pair id="2173" value="FALSE" task="CD">
+<t>
+FBI agents later interviewed Vanderford and opened an investigation.
+</t>
+<h>
+The FBI said it was still considering whether Vanderford had broken any law.
+</h>
+</pair>
+<pair id="895" value="TRUE" task="CD">
+<t>
+The Dutch, under the leadership of Jan Pieterszoon Coen, captured and razed the city in 1619, after which the capital of the Dutch East Indies -- a walled township named Batavia -- was established on the site.
+</t>
+<h>The Dutch captured and destroyed the city in 1619.</h>
+</pair>
+<pair id="897" value="TRUE" task="CD">
+<t>
+The colonial era ended when Indonesia was occupied by Japanese forces in World War II.
+</t>
+<h>
+During World War II, Indonesia was taken over by Japanese forces.
+</h>
+</pair>
+<pair id="1387" value="TRUE" task="CD">
+<t>
+One famous nonastronaut also received one of the Ambassador of Exploration awards -former CBS newsman Walter Cronkite.
+</t>
+<h>
+Former CBS News anchor Walter Cronkite also received the ambassador honor.
+</h>
+</pair>
+<pair id="1800" value="FALSE" task="CD">
+<t>
+Sharon said on Sunday evening that he intended to follow through with the plan "in light of the severe and dangerous economic and security situation that Israel would find itself in if it had no diplomatic plan," a statement from his office said.
+</t>
+<h>
+The plan, which has strong international support, including from the United States, has cost Sharon his parliamentary majority and left him fighting for political survival.
+</h>
+</pair>
+<pair id="749" value="TRUE" task="CD">
+<t>
+Toward the east , the city ends in a plain that meets the Sierra Nevada , with its two extinct volcanoes, Ixtacihuatl ( 17,342 feet ) and Popocatepetl ( 17,883 feet ), which were once a familiar sight from Mexico City but are now usually obscured by pollution.
+</t>
+<h>
+Nearby are two volcanoes that can only be seen from the city on days when wind has cleared out the pollution.
+</h>
+</pair>
+<pair id="2169" value="FALSE" task="CD">
+<t>
+Scott and Lance Hacking talked with their younger brother at the hospital July 24.
+</t>
+<h>Douglas and Scott Hacking are physicians.</h>
+</pair>
+<pair id="741" value="TRUE" task="CD">
+<t>
+The most popular spectator sports are football ( soccer ) and bullfighting.
+</t>
+<h>
+The most popular spectator sports are soccer and bullfighting.
+</h>
+</pair>
+<pair id="833" value="TRUE" task="CD">
+<t>Saudi Arabia was boosting its own production.</t>
+<h>Saudi Arabia was boosting its production.</h>
+</pair>
+<pair id="865" value="FALSE" task="CD">
+<t>
+Massoud Emami, governor of Iran's northwestern province of Qazvin, and at least 9 others on abroad a helicopter were killed in a crash Saturday afternoon.
+</t>
+<h>
+Governor of Iran's Qazvin province, Massoud Emami, and eight others were killed when their helicopter crashed while returning after an inspection of quake-hit Roudbar Alamout district, north of Tehran.
+</h>
+</pair>
+<pair id="724" value="TRUE" task="CD">
+<t>
+In the early 20th century the city was the site of fighting during the Mexican Revolution.
+</t>
+<h>
+During the Mexican Revolution, the city became a battlefield.
+</h>
+</pair>
+<pair id="875" value="TRUE" task="CD">
+<t>
+A spokeswoman said there were no more details available.
+</t>
+<h>No further details were available.</h>
+</pair>
+<pair id="870" value="TRUE" task="CD">
+<t>
+Measurements by ground-based instruments around the world have shown a decrease of up to 10 percent in sunlight from the late 1950's to the early 1990's.
+</t>
+<h>
+The world is about 10 per cent darker than half a century ago
+</h>
+</pair>
+<pair id="881" value="TRUE" task="CD">
+<t>
+That's five times the amount spent by Australia on security for the 2000 Games in Sydney.
+</t>
+<h>
+That's five times more than Australia spent to protect the 2000 Olympics in Sydney.
+</h>
+</pair>
+<pair id="689" value="TRUE" task="CD">
+<t>
+After World War I ( 1914-18 ), Warsaw again became the capital of an independent Poland.
+</t>
+<h>
+After World War I Warsaw regained its status as the national capital of Poland.
+</h>
+</pair>
+<pair id="727" value="FALSE" task="CD">
+<t>
+When the Spaniards led by Hernan Cortes arrived in 1519, Tenochtitlan had about 100,000 inhabitants.
+</t>
+<h>
+Led by Hernan Cortes, the Spaniards fought a war against the Aztec.
+</h>
+</pair>
+<pair id="722" value="FALSE" task="CD">
+<t>
+Budapest, capital of Hungary, and administrative centre of Budai jaras ( district ) and Pest megye ( county).
+</t>
+<h>
+Budapest, the capital of Hungary, is one of the largest cities of Eastern Europe.
+</h>
+</pair>
+<pair id="711" value="TRUE" task="CD">
+<t>
+It is the most fashionable district of Budapest, where Hungary's wealthy have houses.
+</t>
+<h>
+It is the most fashionable district of Budapest, where Hungary's elite have houses.
+</h>
+</pair>
+<pair id="1367" value="FALSE" task="CD">
+<t>Baleen whales are filter feeders.</t>
+<h>
+Minke whales are the smallest of the baleen whales at about 30 feet.
+</h>
+</pair>
+<pair id="834" value="TRUE" task="CD">
+<t>
+Until about five years ago, an 8-by-8-foot plank jutting out from the tracks provided a safe haven for those crossing the bridge if a train came.
+</t>
+<h>
+Until about five years ago, an 8-by-8-foot plank extending from the tracks provided a safe haven for those crossing the bridge if a train came.
+</h>
+</pair>
+<pair id="739" value="TRUE" task="CD">
+<t>
+The Plaza Mexico bullring is the largest in the world.
+</t>
+<h>Plaza Mexico is the largest bullring in the world.</h>
+</pair>
+<pair id="905" value="FALSE" task="CD">
+<t>
+Korean Seoul, formally Soul-t'ukpyolsi ( "Special City of Seoul" ), largest city and capital of the Republic of Korea ( South Korea ), located in the northwestern part of the country on the Han-gang (Han River ) 37 miles ( 60 kilometres ) from the Yellow Sea.
+</t>
+<h>Seoul sits on both banks of the Han.</h>
+</pair>
+<pair id="846" value="TRUE" task="CD">
+<t>
+Aristide left Haiti on February 29, on board an American military aircraft, in the face of mounting civil unrest and accusations of corruption.
+</t>
+<h>
+Aristide left Haiti on February 29, on board a US military aircraft.
+</h>
+</pair>
+<pair id="901" value="TRUE" task="CD">
+<t>
+Korean Seoul, formally Soul-t'ukpyolsi ( "Special City of Seoul" ), largest city and capital of the Republic of Korea ( South Korea ), located in the northwestern part of the country on the Han-gang (Han River ) 37 miles ( 60 kilometres ) from the Yellow Sea.
+</t>
+<h>
+The capital and largest city of South Korea is Seoul.
+</h>
+</pair>
+<pair id="1856" value="FALSE" task="CD">
+<t>
+A militant group in Iraq is holding seven foreign truck drivers.
+</t>
+<h>
+The militant group said it had released the Iraqi driver.
+</h>
+</pair>
+<pair id="1388" value="FALSE" task="CD">
+<t>
+NASA Administrator Sean O'Keefe presented the Apollo, Gemini and Mercury astronauts and survivors with commemorative plaques -- each containing a small piece of lunar rock.
+</t>
+<h>
+The astronauts were given lunar rocks that came from the 842 pounds of rocks and soil brought home from six moon expeditions from 1969 to 1972 and will be displayed in their names at the museum or educational institution of their choice.
+</h>
+</pair>
+<pair id="866" value="TRUE" task="CD">
+<t>
+Prime Minister Ariel Sharon, threatened Sunday to fire rebellious cabinet ministers opposed to his Gaza pullout plan.
+</t>
+<h>
+Prime Minister Ariel Sharon, threatens to ax opponents.
+</h>
+</pair>
+<pair id="839" value="TRUE" task="CD">
+<t>Shrek 2 rang up $92 million.</t>
+<h>Shrek 2 earned $92 million</h>
+</pair>
+<pair id="854" value="FALSE" task="CD">
+<t>
+Diplomat and Saudi security sources say there were multiple shooting attacks Saturday on housing compounds in Khobar.
+</t>
+<h>
+They say the captives were among a large number of hostages seized at a housing compound near Khobar.
+</h>
+</pair>
+<pair id="900" value="FALSE" task="CD">
+<t>
+Formerly ( until 1949 ) Batavia, Jakarta is largest city and capital of Indonesia.
+</t>
+<h>
+Indonesia gained independence in 1949, and the name of the city was changed to Djakarta.
+</h>
+</pair>
+<pair id="1410" value="FALSE" task="CD">
+<t>
+The Nez Perce, Umatilla, Yakama and Colville tribes filed a claim to the skeleton shortly after it was unearthed on 31 July, 1996, on a wide bank of the Columbia river at Kennewick in Washington State.
+</t>
+<h>
+Jim Chatters of Bothell is the scientist who first studied the skeleton after it was found on a Columbia River bank in 1996.
+</h>
+</pair>
+<pair id="2152" value="FALSE" task="CD">
+<t>
+The GDP, which measures the value of all goods and services in the nation, rose at an annual rate of 3 percent in the second quarter, compared to a 4.5 percent rise in the first quarter.
+</t>
+<h>
+Economists had looked for GDP to advance at a 3.6% pace after the previously reported rise of 3.9% in the first quarter.
+</h>
+</pair>
+<pair id="831" value="FALSE" task="CD">
+<t>
+Seven Iraqi men whose hands were ordered cut off by Saddam Hussein met with President Bush at the White House on Tuesday.
+</t>
+<h>
+Seven men, former prisoners of dictator Saddam Hussein, found themselves shaking hands with President George Bush at the White House on Tuesday.
+</h>
+</pair>
+<pair id="1850" value="FALSE" task="CD">
+<t>
+Colin Powell, the US secretary of state, will today hold talks to discuss Saudi Arabia's offer to help build a joint force of Muslim nations.
+</t>
+<h>
+Colin Powell said key questions remain unanswered, including who would command the Muslim troops.
+</h>
+</pair>
+<pair id="1374" value="FALSE" task="CD">
+<t>Eight million Americans have hyperhidrosis.</t>
+<h>
+A recent study estimated that 12 million Americans have hyperhidrosis.
+</h>
+</pair>
+<pair id="2175" value="FALSE" task="CD">
+<t>
+The Bush administration has long criticized Al-Jazeera's coverage as biased against the United States.
+</t>
+<h>
+The Bush administration has long charged that Al-Jazeera provides an outlet for the al-Qaida terrorist network.
+</h>
+</pair>
+<pair id="1885" value="FALSE" task="IE">
+<t>
+The Geneve-based FAO organizing committee has announced that the location of the 4th International World Food Security conference has been moved from Bangkok to New Delhi for security reasons.
+</t>
+<h>
+The 4th International World Food security conference is held in Bangkok.
+</h>
+</pair>
+<pair id="1641" value="TRUE" task="IE">
+<t>
+Today's highlight in history: On Nov. 24, 1963, in a scene captured on live network television, Dallas nightclub owner Jack Ruby shot and mortally wounded Lee Harvey Oswald as the accused assassin of President John F. Kennedy was being escorted by police to an armored truck at the Dallas municipal building for transfer to the county jail.
+</t>
+<h>
+Lee Harvey Oswald killed President John F. Kennedy.
+</h>
+</pair>
+<pair id="1662" value="FALSE" task="IE">
+<t>
+All residential areas in South Africa are segregated by race and no black neighborhoods have been established in Port Nolloth.
+</t>
+<h>All residential areas are located in South Africa.</h>
+</pair>
+<pair id="1697" value="TRUE" task="IE">
+<t>
+In 1999 Ford bought the apartment in Manhattan that he shares with his new girlfriend, Calista Flockhart.
+</t>
+<h>Calista Flockhart lives in Manhattan.</h>
+</pair>
+<pair id="1650" value="FALSE" task="IE">
+<t>
+Canadian authorities are investigating a report that Frank Costello, an American citizen, was offered the job of assassinating Prime Minister Brian Mulroney, a spokeswoman said.
+</t>
+<h>
+Frank Costello killed Prime Minister Brian Mulroney.
+</h>
+</pair>
+<pair id="2090" value="FALSE" task="IE">
+<t>
+Alice Walton, daughter of Sam Walton, the founder of Wal-Mart, is believed to be ready to pay about C$90m for the Douglas Lake Ranch.
+</t>
+<h>Alice Walton is the founder of Wal-Mart.</h>
+</pair>
+<pair id="1683" value="FALSE" task="IE">
+<t>
+At a regular Chinese Foreign Ministry briefing in Beijing on Thursday, spokesman Li Zhaoxing would say only that China will consider direct talks with Vietnam at an appropriate time.
+</t>
+<h>Li Zhaoxing lives in Beijing.</h>
+</pair>
+<pair id="1645" value="FALSE" task="IE">
+<t>
+According to Viroj Laohaphan, director general of Thailand's Customs Department, if this amount of heroin had left Thailand, it would have killed an uncountable number of people.
+</t>
+<h>
+Viroj Laohaphan killed an uncountable number of people.
+</h>
+</pair>
+<pair id="1886" value="TRUE" task="IE">
+<t>
+The Geneve-based FAO organizing committee has announced that the location of the 4th International World Food Security conference has been moved from Bangkok to New Delhi for security reasons.
+</t>
+<h>
+The 4th International World Food security conference is held in New Delhi.
+</h>
+</pair>
+<pair id="1820" value="FALSE" task="IE">
+<t>
+The recent G8 summit, which was first held on July 13-16, 1975, took place on Sea Island on June 8-10.
+</t>
+<h>
+The recent G8 summit took place on July 13-16, 1975.
+</h>
+</pair>
+<pair id="1692" value="TRUE" task="IE">
+<t>
+LaFarge was the one who taught Tiffany to make the Favrile glass, said auctioneer William Doyle who operates an auction house in Manhattan.
+</t>
+<h>
+William Doyle works for an auction house in Manhattan.
+</h>
+</pair>
+<pair id="1615" value="FALSE" task="IE">
+<t>
+Los Angeles, hometown of the Lakers, hosted the basketball championship final last night.
+</t>
+<h>The Lakers were born in Los Angeles.</h>
+</pair>
+<pair id="1879" value="TRUE" task="IE">
+<t>
+Juan Antonio Samaranch, president of the International Olympic Committee, left Lillehammer for Sarajevo to pay tribute to this besieged city, host of the 1984 Winter Olympic Games.
+</t>
+<h>
+The 1984 Winter Olympic Games were held in Sarajevo.
+</h>
+</pair>
+<pair id="1999" value="FALSE" task="IE">
+<t>
+The plays, presented in celebration of the 100th anniversary of O'Neill's birth, may go on to New York City and the Soviet Union.
+</t>
+<h>O'Neill was born in New York city.</h>
+</pair>
+<pair id="1598" value="TRUE" task="IE">
+<t>
+U.K. Billionaire P. Green raised his proposed bid for Marks Spencer Group Plc.
+</t>
+<h>P. Green tries to take over Marks  Spencer Group.</h>
+</pair>
+<pair id="1696" value="TRUE" task="IE">
+<t>
+In 1999 Ford bought the apartment in Manhattan that he shares with his new girlfriend, Calista Flockhart.
+</t>
+<h>Ford lives in Manhattan.</h>
+</pair>
+<pair id="1876" value="FALSE" task="IE">
+<t>
+"Much preparation is required to host the European football championship", declared Russian President Vladimir Putin, commenting on the call of Grigory Surkis for Russia to host Euro 2012.
+</t>
+<h>Euro 2012 will be held in Russia.</h>
+</pair>
+<pair id="1688" value="FALSE" task="IE">
+<t>
+Born in Athens, Psacharopoulos came to the United States at age 17 to enter Oberlin College, where he met Jean Hackett, an actress of New York City.
+</t>
+<h>
+Oberlin College is an organisation based in New York.
+</h>
+</pair>
+<pair id="1654" value="TRUE" task="IE">
+<t>
+Officials in Perugia in Umbria province said five people were arrested there Tuesday.
+</t>
+<h>Perugia is located in Umbria.</h>
+</pair>
+<pair id="1628" value="FALSE" task="IE">
+<t>
+The plays, presented in celebration of the 100th anniversary of O'Neill's birth, may go on to New York City and the Soviet Union.
+</t>
+<h>O'Neill was born in New York City.</h>
+</pair>
+<pair id="2010" value="FALSE" task="IE">
+<t>
+The film was produced by Jason P. Brubaker of Brubaker Films LLC, in association with T-Street Productions.
+</t>
+<h>J. Brubaker is a member of T-Street Production.</h>
+</pair>
+<pair id="1670" value="FALSE" task="IE">
+<t>
+Mark Said and Philip Dick, two members of Ontario Bradley First Air's crew, were from Montreal, Canada.
+</t>
+<h>
+Bradley First Air is an organisation based in Montreal, Canada.
+</h>
+</pair>
+<pair id="1620" value="FALSE" task="IE">
+<t>
+Illinois born Charlton Heston was a 27-year-old actor from Broadway and television when he arrived in Hollywood for a five-picture contract with Hal Wallis.
+</t>
+<h>Charlton Heston was born in Broadway.</h>
+</pair>
+<pair id="1923" value="TRUE" task="IE">
+<t>
+Only a dozen officials were present at the ceremony of power transfer from the US to the Iraqi government, in which Bremer handed over legal documents to interim Prime Minister Iyad Allawi.
+</t>
+<h>
+Bremer participates in the ceremony of power transfer from the US to the Iraqi government.
+</h>
+</pair>
+<pair id="1911" value="TRUE" task="IE">
+<t>
+The SPD got just 21.5% of the vote in the European Parliament elections, while the conservative opposition parties polled 44.5%.
+</t>
+<h>The SPD is defeated by the opposition parties.</h>
+</pair>
+<pair id="1694" value="TRUE" task="IE">
+<t>
+Hernandez Galicia was arrested when soldiers blew down his door with a bazooka in a raid on his Ciudad Madero home.
+</t>
+<h>Hernandez Galicia lives in Ciudad Madero.</h>
+</pair>
+<pair id="1899" value="FALSE" task="IE">
+<t>
+Teenage sensation Wayne Rooney powered England into the quarter-finals of Euro 2004 with two goals in Monday's 4-2 defeat of Croatia and they were joined in the last eight by champions France who beat Switzerland 3-1.
+</t>
+<h>England is defeated by Croatia.</h>
+</pair>
+<pair id="1875" value="TRUE" task="IE">
+<t>
+In 1984 Los Angeles saw a record 140 nations taking part in the XXIII Olympiade, despite the boycott led by the Soviet Union.
+</t>
+<h>The XXIII Olympiade was held in Los Angeles.</h>
+</pair>
+<pair id="1642" value="FALSE" task="IE">
+<t>
+Today's highlight in history: On Nov. 24, 1963, in a scene captured on live network television, Dallas nightclub owner Jack Ruby shot and mortally wounded Lee Harvey Oswald as the accused assassin of President John F. Kennedy was being escorted by police to an armored truck at the Dallas municipal building for transfer to the county jail.
+</t>
+<h>Jack Ruby killed President John F. Kennedy.</h>
+</pair>
+<pair id="1611" value="TRUE" task="IE">
+<t>
+Dole's wife, Elizabeth, is a native of Salisbury, N.C.
+</t>
+<h>Dole's wife, Elizabeth was born in Salisbury, N.C.</h>
+</pair>
+<pair id="1921" value="TRUE" task="IE">
+<t>
+Cedras, Biamby, and Francois also led the 1991 coup.
+</t>
+<h>Cedras took part in the 1991 coup.</h>
+</pair>
+<pair id="1880" value="FALSE" task="IE">
+<t>
+Juan Antonio Samaranch, president of the International Olympic Committee, left Lillehammer for Sarajevo to pay tribute to this besieged city, host of the 1984 Winter Olympic Games.
+</t>
+<h>
+The 1984 Winter Olympic Games were held in Lillehammer.
+</h>
+</pair>
+<pair id="1907" value="FALSE" task="IE">
+<t>
+The centre-right European People's Party (EPP), the largest group in the European Parliament, has warned that it will reject the Taoiseach, Berni Ahern, if he is nominated as the next president of the European Commission.
+</t>
+<h>
+Berni Ahern is the president of the European Commission.
+</h>
+</pair>
+<pair id="1924" value="TRUE" task="IE">
+<t>
+Ahern, who is travelling to Tokyo for an EU-Japan summit yesterday, will consult with other EU leaders about the election of the EU commission president.
+</t>
+<h>Ahern takes part in an EU-Japan summit.</h>
+</pair>
+<pair id="1666" value="FALSE" task="IE">
+<t>
+Abrams' 3-year service as head of the Latin America bureau will end next week with the inauguration of President-elect Bush in Washington..
+</t>
+<h>
+Latin America bureau is an organisation based in Washington.
+</h>
+</pair>
+<pair id="1664" value="TRUE" task="IE">
+<t>
+Only a few thousand people live in Port Nolloth, one of the few towns in the semi-arid landscape that makes up the northwest corner of South Africa.
+</t>
+<h>Port Nolloth is located in South Africa.</h>
+</pair>
+<pair id="1872" value="TRUE" task="IE">
+<t>
+The third African Union summit opened in the Ethiopia's capital of Addis Ababa on Tuesday, June 29.
+</t>
+<h>
+The third African Union summit is held in Ethiopia.
+</h>
+</pair>
+<pair id="1617" value="FALSE" task="IE">
+<t>
+In 1782 Martin Van Buren, the first US president who was a native citizen of the United States, was born in Kinderhook, N.Y.
+</t>
+<h>
+The first US president was born in Kinderhook, N.Y.
+</h>
+</pair>
+<pair id="1693" value="FALSE" task="IE">
+<t>
+LaFarge was the one who helped Tiffany to make the Favrile glass, said auctioneer William Doyle who operates an auction house in Manhattan.
+</t>
+<h>William Doyle lives in Manhattan.</h>
+</pair>
+<pair id="1909" value="TRUE" task="IE">
+<t>
+Romano Prodi will meet the US President George Bush in his capacity as president of the European commission.
+</t>
+<h>
+Romano Prodi is the president of the European Commission.
+</h>
+</pair>
+<pair id="1689" value="TRUE" task="IE">
+<t>
+Born in Athens, Psacharopoulos came to the United States at age 17 to enter Oberlin College, where he met Jean Hackett, an actress of New York City
+</t>
+<h>
+Oberlin College is an organisation based in the United States.
+</h>
+</pair>
+<pair id="1640" value="TRUE" task="IE">
+<t>
+Today's highlight in history: On Nov. 24, 1963, in a scene captured on live network television, Dallas nightclub owner Jack Ruby shot and mortally wounded Lee Harvey Oswald as the accused assassin of President John F. Kennedy was being escorted by police to an armored truck at the Dallas municipal building for transfer to the county jail.
+</t>
+<h>Jack Ruby killed Lee Harvey Oswald.</h>
+</pair>
+<pair id="1944" value="TRUE" task="IE">
+<t>
+African presidents opened a two-day summit in Accra, Ghana, on Ivory Coast, where northern rebels and fiercely loyalist southerners continue to split the cocoa-rich country, ignoring a never-implemented 2003 power-sharing deal.
+</t>
+<h>Accra is located in Ghana.</h>
+</pair>
+<pair id="1607" value="FALSE" task="IE">
+<t>
+A marine who was kidnapped while patrolling a dangerous Baghdad quarter by himself has turned up safe and well in the Lebanon.
+</t>
+<h>A marine has been kidnapped by himself.</h>
+</pair>
+<pair id="1940" value="TRUE" task="IE">
+<t>
+The plan was released by Mr Dean on behalf of the Secretary of Health and Human Services, Tommy Thompson, still recovering from a recent accident, at a Secretarial Summit on Health Information Technology that was attended by many of the nation's leaders in electronic health records.
+</t>
+<h>
+Tommy Thompson is the Secretary of Health and Human Services.
+</h>
+</pair>
+<pair id="1609" value="TRUE" task="IE">
+<t>
+The recent G8 summit, held June 8-10, brought together leaders of the world's major industrial democracies.
+</t>
+<h>The recent G8 summit took place on June 8-10.</h>
+</pair>
+<pair id="1673" value="FALSE" task="IE">
+<t>
+Two employees of the U.S. Immigration Service will go to Moscow to help handle the processing.
+</t>
+<h>
+U.S. Immigration Service is an organisation based in Moscow.
+</h>
+</pair>
+<pair id="1680" value="FALSE" task="IE">
+<t>
+Abrams' 3-year service as head of the Latin America bureau will end next week with the inauguration of President-elect Bush in Washington.
+</t>
+<h>Abrams lives in Latin American.</h>
+</pair>
+<pair id="1630" value="FALSE" task="IE">
+<t>
+Henryk Wieniawski, a Polish-born musician, was known for his special preference for resurrecting neglected or lost works for the violin.
+</t>
+<h>Henryk Wieniawski was born in Polish.</h>
+</pair>
+<pair id="1947" value="TRUE" task="IE">
+<t>Yukos ignites oil prices</t>
+<h>Oil prices rise.</h>
+</pair>
+<pair id="1625" value="TRUE" task="IE">
+<t>
+More than 250 paintings commemorate the centennial of the Man Ray's birth in Philadelphia.
+</t>
+<h>Man Ray was born in Philadelphia.</h>
+</pair>
+<pair id="1646" value="FALSE" task="IE">
+<t>
+Police reports say Gallardo assaulted his wife at school in late January, and friends said she was also attacked another time near where she was killed.
+</t>
+<h>Gallaro killed his wife.</h>
+</pair>
+<pair id="1668" value="TRUE" task="IE">
+<t>
+Two conservative federate appellate judges, Ralph Winter of the 2nd U.S Circuit Court of Appeals in New York, and Kenneth Starr of the U.S. Circuit Court of Appeals for the District of Columbia have been appointed by Reagan.
+</t>
+<h>
+Ralph Winter works for the 2nd U.S. Circuit of Appeals in New York.
+</h>
+</pair>
+<pair id="1623" value="TRUE" task="IE">
+<t>
+In Waco, near Nelson's hometown of Abbott, auto parts salesman Dave Crowe proposed that fans join ``Willie Aid'' by mailing donations straight to the IRS.
+</t>
+<h>Nelson was born in Abbott.</h>
+</pair>
+<pair id="1890" value="FALSE" task="IE">
+<t>
+The organizers of the 15th International AIDS Conference, scheduled for next month in Bangkok, Thailand, last Saturday responded to press reports that a prominent hotel in Bangkok discriminated against HIV-positive visitors attending a conference on climate changes.
+</t>
+<h>
+The 15th International AIDS Conference was held last Saturday.
+</h>
+</pair>
+<pair id="1897" value="TRUE" task="IE">
+<t>
+Latvia, for instance, is the lowest-ranked team in the field but defeated World Cup semifinalist Turkey in a playoff to qualify for the final 16 of Euro 2004.
+</t>
+<h>Turkey is defeated by Latvia.</h>
+</pair>
+<pair id="2008" value="FALSE" task="IE">
+<t>
+Mr. Griffith stated that he "can't understand the vote by a City Council member against applying for a grant"
+</t>
+<h>Mr. Griffith is a member of the City Council.</h>
+</pair>
+<pair id="1667" value="FALSE" task="IE">
+<t>
+Regan attended a ceremony in Washington to commemorate the landings in Normandy.
+</t>
+<h>Washington is located in Normandy.</h>
+</pair>
+<pair id="1657" value="FALSE" task="IE">
+<t>
+The ANSA agency said the operation involves police in Umbria and Lazio provinces in central Italy and Campania province in the south.
+</t>
+<h>
+The ANSA agency is an organisation based in Umbria and Lazio provinces.
+</h>
+</pair>
+<pair id="1621" value="TRUE" task="IE">
+<t>
+Jesse Owens, the Olympic legend from Danville, Ala., was born in 1913.
+</t>
+<h>Jesse Owens was born in Danville, Ala.</h>
+</pair>
+<pair id="1687" value="TRUE" task="IE">
+<t>
+Born in Athens, Psacharopoulos came to the United States at age 17 to enter Oberlin College, where he met Jean Hackett, an actress of New York City.
+</t>
+<h>Psacharopoulos is from Athens.</h>
+</pair>
+<pair id="1661" value="TRUE" task="IE">
+<t>
+Regan recalled that he read a letter from a young woman whose late father had fought at Ohama Beach, a Normandy sector.
+</t>
+<h>Ohama Beach is located in Normandy.</h>
+</pair>
+<pair id="1998" value="FALSE" task="IE">
+<t>
+Mrs. Thatcher promised Haughey that Tom King, her minister for Northern Ireland, would make a statement soon about the ``organizational implications'' of the affair, the British spokesman said.
+</t>
+<h>Tom King was born in Northern Ireland.</h>
+</pair>
+<pair id="1634" value="TRUE" task="IE">
+<t>
+William Leonard Jennings sobbed loudly as was charged with killing his 3-year-old son, Stephen, who was last seen alive on Dec. 12, 1962.
+</t>
+<h>
+William Leonard Jennings killed his 3-year-old son, Stephen.
+</h>
+</pair>
+<pair id="1877" value="TRUE" task="IE">
+<t>
+The English team arrived last night in Lisbon, Portugal, to play its first Euro 2004's match.
+</t>
+<h>Euro 2004 is held in Portugal.</h>
+</pair>
+<pair id="1938" value="FALSE" task="IE">
+<t>
+The plan was released by Mr Dean on behalf of the Secretary of Health and Human Services, Tommy Thompson, still recovering from a recent accident, at a Secretarial Summit on Health Information Technology that was attended by many of the nation's leaders in electronic health records.
+</t>
+<h>
+Tommy Thompson takes part in a Secretarial Summit on Health Information Technology.
+</h>
+</pair>
+<pair id="1616" value="TRUE" task="IE">
+<t>
+In 1833, Benjamin Harrison, the 23rd president of the United States, was born in North Bend, Ohio.
+</t>
+<h>
+The 23rd President of the United States was born in Ohio.
+</h>
+</pair>
+<pair id="1952" value="TRUE" task="IE">
+<t>Crude oil prices soared to record levels</t>
+<h>Crude oil prices rise.</h>
+</pair>
+<pair id="1888" value="TRUE" task="IE">
+<t>
+The organizers of the 15th International AIDS Conference, scheduled for next month in Bangkok, Thailand, last Saturday responded to press reports that a prominent hotel in Bangkok discriminated against HIV-positive visitors attending a conference on climate changes.
+</t>
+<h>
+The 15th International AIDS Conference takes place in Bangkok.
+</h>
+</pair>
+<pair id="1873" value="TRUE" task="IE">
+<t>
+Greece was the birthplace of the ancient Olympic Games. The 2004 Olympic Games will return to their origins when Athens hosts the Games of the XXVIII Olympiad.
+</t>
+<h>The 2004 Olympic Games are held in Athens.</h>
+</pair>
+<pair id="1672" value="FALSE" task="IE">
+<t>
+Mark Said and Philip Dick, two members of Ontario Bradley First Air's crew, were from Montreal, Canada.
+</t>
+<h>Mark Said was born in Ontario.</h>
+</pair>
+<pair id="1874" value="FALSE" task="IE">
+<t>
+In 1984 Los Angeles saw a record 140 nations taking part in the XXIII Olympiade, despite the boycott led by the Soviet Union
+</t>
+<h>
+The XXIII Olympiade took place in the Soviet Union.
+</h>
+</pair>
+<pair id="1655" value="TRUE" task="IE">
+<t>
+The ANSA agency said the operation involves police in Umbria and Lazio provinces in central Italy and Campania province in the south, without specifying exact arrest locations.
+</t>
+<h>
+Umbria and Lazio provinces are located in central Italy.
+</h>
+</pair>
+<pair id="1894" value="FALSE" task="IE">
+<t>
+After Germany's 0-0 draw Saturday with 500-1 underdog Latvia, it may be that the German team simply doesn't have enough talent.
+</t>
+<h>Germany defeats Latvia.</h>
+</pair>
+<pair id="1903" value="TRUE" task="IE">
+<t>
+The U.S. handed power on June 30 to Iraq's interim government chosen by the United Nations and Paul Bremer, former governor of Iraq.
+</t>
+<h>Paul Bremer is the former governor of Iraq.</h>
+</pair>
+<pair id="1603" value="TRUE" task="IE">
+<t>
+Armed Iraqi insurgents threatened to kill a Filipino hostage if his country does not withdraw from Iraq within three days.
+</t>
+<h>
+A Filipino has been kidnapped by armed Iraqi insurgents.
+</h>
+</pair>
+<pair id="1679" value="TRUE" task="IE">
+<t>
+Abrams' 3-year service as head of the Latin America bureau will end next week with the inauguration of President-elect Bush in Washington.
+</t>
+<h>Abrams works for the Latin America bureau.</h>
+</pair>
+<pair id="2062" value="FALSE" task="IE">
+<t>
+Things would be different if Microsoft was located in Georgia.
+</t>
+<h>
+Microsoft's corporate headquarters are located in Georgia.
+</h>
+</pair>
+<pair id="2087" value="FALSE" task="IE">
+<t>
+The nomadic Raiders moved to LA in 1982 and won their third Super Bowl a year later.
+</t>
+<h>The nomadic Raiders won the Super Bowl in 1982.</h>
+</pair>
+<pair id="1900" value="TRUE" task="IE">
+<t>
+Teenage sensation Wayne Rooney powered England into the quarter-finals of Euro 2004 with two goals in Monday's 4-2 defeat of Croatia and they were joined in the last eight by champions France who beat Switzerland 3-1.
+</t>
+<h>France defeats Switzerland.</h>
+</pair>
+<pair id="1627" value="TRUE" task="IE">
+<t>
+Taxpayers will be pleased to learn that a federal grant for Lawrence Welk's North Dakota birthplace has finally been buried, nine months after an embarrassed Congress voted to kill it.
+</t>
+<h>Lawrence Welk was born in North Dakota</h>
+</pair>
+<pair id="2092" value="FALSE" task="IE">
+<t>
+Interestingly, the current Mayor of Berlin, Klaus Wowereit, is openly gay, as is the Mayor of Paris, Bertrand Delanoe.
+</t>
+<h>Klaus Wowereit is the Mayor of Paris.</h>
+</pair>
+<pair id="1663" value="FALSE" task="IE">
+<t>
+All residential areas in South Africa are segregated by race and no black neighborhoods have been established in Port Nolloth.
+</t>
+<h>Black neighborhoods are located in Port Nolloth.</h>
+</pair>
+<pair id="1648" value="FALSE" task="IE">
+<t>
+The survey responses were destroyed because of a ''witch hunt'' for John Hugh, a doctor who described a mercy killing in a medical journal, said Derek Humphry.
+</t>
+<h>John Hugh killed Derek Humphry.</h>
+</pair>
+<pair id="1669" value="TRUE" task="IE">
+<t>
+Two members of Ontario Bradley First Air's crew were from Montreal, Canada.
+</t>
+<h>
+Bradley First Air is an organisation based in Ontario.
+</h>
+</pair>
+<pair id="1881" value="TRUE" task="IE">
+<t>
+The Lillehammer Olympic Games organizing committee said 65 countries have entered the competition, matching the number of nations at the 1992 Winter Games in Albertville, France.
+</t>
+<h>The Olympic Games are held in Lillehammer.</h>
+</pair>
+<pair id="1901" value="FALSE" task="IE">
+<t>
+Teenage sensation Wayne Rooney powered England into the quarter-finals of Euro 2004 with two goals in Monday's 4-2 defeat of Croatia and they were joined in the last eight by champions France who beat Switzerland 3-1.
+</t>
+<h>Croatia is defeated by France.</h>
+</pair>
+<pair id="1882" value="TRUE" task="IE">
+<t>
+Security preparations kept protestors at bay at the recent G8 Summit on Sea Island (USA).
+</t>
+<h>The recent G8 Summit took place on Sea Island.</h>
+</pair>
+<pair id="1686" value="FALSE" task="IE">
+<t>
+Born in Athens, Psacharopoulos came to the United States at age 17 to enter Oberlin College, where he met Jean Hackett, an actress of New York City.
+</t>
+<h>Athens is located in the United States.</h>
+</pair>
+<pair id="1624" value="FALSE" task="IE">
+<t>
+In Waco, near Nelson's hometown of Abbott, auto parts salesman Dave Crowe proposed that fans join ``Willie Aid'' by mailing donations straight to the IRS.
+</t>
+<h>Nelson was born in Waco.</h>
+</pair>
+<pair id="1887" value="TRUE" task="IE">
+<t>
+The Geneve-based FAO organizing committee has announced that the location of the 4th International World Food Security conference has been moved from Bangkok to New Delhi for security reasons.
+</t>
+<h>
+The FAO organizing committee has its headquarters in Geneve.
+</h>
+</pair>
+<pair id="1905" value="TRUE" task="IE">
+<t>
+Former taoiseach Mr John Bruton, a vice-president of the EPP, said the group had a number of potential candidates for the post of Commission president
+</t>
+<h>Mr John Bruton is a vice-president of the EPP.</h>
+</pair>
+<pair id="1878" value="FALSE" task="IE">
+<t>
+Miscellany Coastal Georgia's Tybee Island was dropped as the site for the 1996 Olympic beach volleyball competition.
+</t>
+<h>
+The 1996 Olympic volley competition was held in Tybee Island.
+</h>
+</pair>
+<pair id="1895" value="TRUE" task="IE">
+<t>
+Latvia, for instance, is the lowest-ranked team in the field but defeated World Cup semifinalist Turkey in a playoff to qualify for the final 16 of Euro 2004.
+</t>
+<h>Latvia beats Turkey.</h>
+</pair>
+<pair id="1622" value="FALSE" task="IE">
+<t>
+In Waco, near Nelson's hometown of Abbott, auto parts salesman Dave Crowe proposed that fans join ''Willie Aid'' by mailing donations straight to the IRS.
+</t>
+<h>Abbott was born in Nelson.</h>
+</pair>
+<pair id="1629" value="FALSE" task="IE">
+<t>
+Baby Evelyn, the first child of Judy Keys, 22, and Airman Todd Keys, 21, stationed at Lackland Air Force Base, was born with only a brain stem.
+</t>
+<h>Todd Keys was born at Lackland Air Force Base.</h>
+</pair>
+<pair id="1647" value="FALSE" task="IE">
+<t>
+Johnston is the seventh person to be killed in sectarian violence this year in Northern Ireland where the outlawed IRA is fighting to end British rule in the province.
+</t>
+<h>IRA killed Johnston.</h>
+</pair>
+<pair id="1893" value="FALSE" task="IE">
+<t>
+Italy and Germany have each played twice, and they haven't beaten anybody yet.
+</t>
+<h>Italy defeats Germany.</h>
+</pair>
+<pair id="1459" value="FALSE" task="IE">
+<t>
+"I've been a Howard Stern fan since his WNBC (a New York radio station) days and I was one of the ones at New Line who sought him out," says Mike DeLuca, president of New Line Cinema production.
+</t>
+<h>Howard Stern works for K-Rock.</h>
+</pair>
+<pair id="2006" value="FALSE" task="IE">
+<t>
+A reporter found Chapman at the downtown Dade County Public Library Tuesday.
+</t>
+<h>Chapman works for Dade County Public Library.</h>
+</pair>
+<pair id="1618" value="FALSE" task="IE">
+<t>
+Richard Rich, born Richard Rosenheim -he changed his name when he moved to New York- took over in the late 1940s and guided the store until his death in 1975.
+</t>
+<h>Richard Rosenheim was born in New York</h>
+</pair>
+<pair id="1682" value="TRUE" task="IE">
+<t>
+At a regular Chinese Foreign Ministry briefing in Beijing on Thursday, spokesman Li Zhaoxing would say only that China will consider direct talks with Vietnam at an appropriate time.
+</t>
+<h>Li Zhaoxing lives in China.</h>
+</pair>
+<pair id="1671" value="TRUE" task="IE">
+<t>
+Mark Said and Philip Dick, two members of Ontario Bradley First Air's crew, were from Montreal, Canada.
+</t>
+<h>Mark Said works for Ontario Bradley First Air.</h>
+</pair>
+<pair id="1608" value="FALSE" task="IE">
+<t>
+Deployment of Filipino workers in Iraq suspended by Philippine president due to repeated kidnappings.
+</t>
+<h>
+Filippino workers have been kidnapped by the Philippine president.
+</h>
+</pair>
+<pair id="1948" value="TRUE" task="IE">
+<t>
+GLOBAL oil prices clung near their highest levels in at least 21 years yesterday after Russian oil giant Yukos was ordered to stop sales, threatening further strain on thin world supplies.
+</t>
+<h>Oil prices rise.</h>
+</pair>
+<pair id="2063" value="FALSE" task="IE">
+<t>
+Sun Microsystems, Yahoo and Microsoft will turn up the heat in the corporate instant messaging market by launching new enterprise offerings this spring.
+</t>
+<h>
+Microsoft's corporate headquarters are located in the corporate instant messaging market.
+</h>
+</pair>
+<pair id="1675" value="FALSE" task="IE">
+<t>
+Cape Town Supreme Court Judge J.H. Berman refused to give Port Nolloth municipal authorities the right to forcibly remove the squatters.
+</t>
+<h>
+Cape Town Supreme Court is an organisation based in Port Nolloth.
+</h>
+</pair>
+<pair id="1922" value="TRUE" task="IE">
+<t>
+The third AU summit opened in the Ethiopian capital of Addis Ababa on Tuesday, June 29, when Chinese Premier Wen Jiabao delivered a congratulatory message to the representatives of the African Union.
+</t>
+<h>
+Chinese Premier Wen Jiabao took part in the third AU summit.
+</h>
+</pair>
+<pair id="1644" value="FALSE" task="IE">
+<t>
+Kennedy had just won California's Democratic presidential primary when Sirhan shot him in Los Angeles on June 5, 1968.
+</t>
+<h>Sirhan killed Kennedy.</h>
+</pair>
+<pair id="1913" value="FALSE" task="IE">
+<t>
+Like the United States, U.N. officials are also dismayed that Aristide killed a conference called by Prime Minister Robert Malval in Port-au-Prince in hopes of bringing all the feuding parties together.
+</t>
+<h>
+Aristide is killed by Prime Minister Robert Malval.
+</h>
+</pair>
+<pair id="1889" value="TRUE" task="IE">
+<t>
+The organizers of the 15th International AIDS Conference, scheduled for next month in Bangkok, Thailand, last Saturday responded to press reports that a prominent hotel in Bangkok discriminated against HIV-positive visitors attending a conference on climate changes.
+</t>
+<h>A climate conference is held in Thailand.</h>
+</pair>
+<pair id="1613" value="TRUE" task="IE">
+<t>
+An Wang, a native of Shanghai, China, who developed the magnetic pulse controlling device, the principle on which computer memory operates.
+</t>
+<h>An Wang was born in Shanghai.</h>
+</pair>
+<pair id="1884" value="FALSE" task="IE">
+<t>
+The Geneve-based FAO organizing committee has announced that the location of the 4th International World Food Security conference has been moved from Bangkok to New Delhi for security reasons.
+</t>
+<h>
+The 4th International World Food security conference is held in Geneve.
+</h>
+</pair>
+<pair id="1871" value="TRUE" task="IE">
+<t>
+The third African Union summit opened in the Ethiopia's capital of Addis Ababa on Tuesday, June 29.
+</t>
+<h>
+The third African Union summit is held in Addis Ababa.
+</h>
+</pair>
+<pair id="1691" value="TRUE" task="IE">
+<t>
+Born in Athens, Psacharopoulos came to the United States at age 17 to enter Oberlin College, where he met Jean Hackett, an actress of New York City.
+</t>
+<h>Jean Hackett lives in New York City.</h>
+</pair>
+<pair id="2014" value="FALSE" task="IE">
+<t>
+Justice Lewis F. Powell, who Kennedy succeeds, and Chief Justice Warren E. Burger were in Florida.
+</t>
+<h>Justice Lewis F. Powell was born in Florida.</h>
+</pair>
+<pair id="1674" value="TRUE" task="IE">
+<t>
+Cape Town Supreme Court Judge J.H. Berman refused to give Port Nolloth municipal authorities the right to forcibly remove the squatters.
+</t>
+<h>
+Judge J.H. Berman works for Cape Town Supreme Court.
+</h>
+</pair>
+<pair id="1896" value="FALSE" task="IE">
+<t>
+Latvia, for instance, is the lowest-ranked team in the field but defeated World Cup semifinalist Turkey in a playoff to qualify for the final 16 of Euro 2004.
+</t>
+<h>Latvia is defeated by Turkey.</h>
+</pair>
+<pair id="1898" value="TRUE" task="IE">
+<t>
+Teenage sensation Wayne Rooney powered England into the quarter-finals of Euro 2004 with two goals in Monday's 4-2 defeat of Croatia and they were joined in the last eight by champions, France who beat Switzerland 3-1.
+</t>
+<h>England defeats Croatia.</h>
+</pair>
+<pair id="1891" value="TRUE" task="IE">
+<t>
+Ahern, who was travelling to Tokyo for an EU-Japan summit yesterday, will consult with other EU leaders by telephone later this week in an effort to find an agreed candidate.
+</t>
+<h>An EU-Japan summit takes place in Tokyo.</h>
+</pair>
+<pair id="276" value="TRUE" task="IR">
+<t>
+Aristide was educated in the Vatican, and therefore he's more fluent in Italian, Greek and Hebrew than English
+</t>
+<h>
+Aristide speaks Italian, Greek, Hebrew and English.
+</h>
+</pair>
+<pair id="93" value="TRUE" task="IR">
+<t>
+The drugstore chain said cost cutting and a jump in prescription drug sales fueled its gains.
+</t>
+<h>Drug sales increase.</h>
+</pair>
+<pair id="298" value="TRUE" task="IR">
+<t>
+Italy and Germany have each played twice, and they haven't beaten anybody yet.
+</t>
+<h>Neither Italy nor Germany have won yet.</h>
+</pair>
+<pair id="2025" value="FALSE" task="IR">
+<t>
+There are a lot of farmers in Poland who worry about their future if Poland joins the European Union.
+</t>
+<h>Poland joins the European Union.</h>
+</pair>
+<pair id="263" value="TRUE" task="IR">
+<t>
+Crayola's new Magic Scent crayons emit food aromas such as coconut, chocolate and cherry when rubbed on paper. They're non-toxic, but because of the aromas children may try to eat the crayons, posing a danger of choking.
+</t>
+<h>
+Magic Scent crayons smell good, but if eaten, may be dangerous.
+</h>
+</pair>
+<pair id="312" value="TRUE" task="IR">
+<t>
+Sonia Gandhi can be defeated in the next elections in India if between now and 2009, BJP can make Rural India Shine, if it can make every young man have a job that he can be proud of.
+</t>
+<h>Next elections in India will take place in 2009.</h>
+</pair>
+<pair id="323" value="FALSE" task="IR">
+<t>
+Across the continent, voters voiced discontent by casting ballots for opposition and fringe parties. But most of the 350 million EU citizens eligible to vote didn't bother to even cast a protest ballot in the last European elections.
+</t>
+<h>
+Most EU citizens voted in the last European election.
+</h>
+</pair>
+<pair id="2019" value="FALSE" task="IR">
+<t>
+Spain pulled its 1,300 troops from Iraq last month.
+</t>
+<h>Spain sends troops to Iraq.</h>
+</pair>
+<pair id="1846" value="FALSE" task="IR">
+<t>
+The speech by Edwards provided the first-term senator from North Carolina his biggest national stage and a prime-time televised showcase for a candidate that voters know even less about than Kerry.
+</t>
+<h>Edwards supports Kerry.</h>
+</pair>
+<pair id="113" value="FALSE" task="IR">
+<t>
+This request is comprised of $1.1 billion for traditional Active MILCON, $1.4 billion for Military Family Housing, $149.1 million for Air National Guard traditional MILCON and $53.7 million for Air Force Reserve traditional MILCON.
+</t>
+<h>A request was reduced to $1.1 billion</h>
+</pair>
+<pair id="293" value="TRUE" task="IR">
+<t>
+An estimated 10,000 of Scotland's 15,000-strong police force is set to be deployed during the three-day event.
+</t>
+<h>
+Two-thirds of the Scottish police force will be deployed at the happening.
+</h>
+</pair>
+<pair id="2024" value="FALSE" task="IR">
+<t>
+If Turkey joins the ranks of the EU, its boundaries will extend to the problem countries of the Middle East.
+</t>
+<h>Turkey to join the EU.</h>
+</pair>
+<pair id="2021" value="FALSE" task="IR">
+<t>
+Spain announced earlier in the week that it was sending three planes of relief supplies to Afghanistan.
+</t>
+<h>Spain opens embassy in Afghanistan.</h>
+</pair>
+<pair id="316" value="FALSE" task="IR">
+<t>
+The debacle marked a new low in the erosion of the SPD's popularity, which began shortly after Mr Schroeder's election in 1998. The trend accelerated after the chancellor unveiled Agenda 2010, his package of painful economic reforms, in March 2003.
+</t>
+<h>SPD's popularity is growing.</h>
+</pair>
+<pair id="932" value="TRUE" task="IR">
+<t>Oil prices drop to two-month low</t>
+<h>Oil prices drop</h>
+</pair>
+<pair id="300" value="TRUE" task="IR">
+<t>
+Latvia, for instance, is the lowest-ranked team in the field but defeated World Cup semifinalist Turkey in a playoff to qualify for the final 16 of Euro 2004.
+</t>
+<h>Latvia has beaten Turkey.</h>
+</pair>
+<pair id="322" value="TRUE" task="IR">
+<t>
+Turnout for the historic vote for the first time since the EU took in 10 new members in May has hit a record low of 45.3%.
+</t>
+<h>New members joined the EU.</h>
+</pair>
+<pair id="306" value="TRUE" task="IR">
+<t>
+The poll, for the first time, has more than half of Americans, 52 percent, saying the war in Iraq was not worth fighting. An overwhelming majority of respondents also said it found the number of U.S. casualties in Iraq unacceptable.
+</t>
+<h>
+Many Americans don't think the war in Iraq was necessary.
+</h>
+</pair>
+<pair id="2016" value="TRUE" task="IR">
+<t>Google files for its long awaited IPO.</t>
+<h>Google goes public.</h>
+</pair>
+<pair id="317" value="TRUE" task="IR">
+<t>
+The party of chancellor Gerhard Schroeder scored its worst electoral performance since the war at the June 13 European election and performed poorly at a simultaneous vote in Thuringia state.
+</t>
+<h>
+Schroeder's party didn't do well at the European elections.
+</h>
+</pair>
+<pair id="966" value="TRUE" task="IR">
+<t>
+A former police officer was charged with murder Thursday in the slaying of a college student who allegedly had threatened to expose their sexual relationship, authorities said.
+</t>
+<h>Ex-cop Rios killed student</h>
+</pair>
+<pair id="967" value="FALSE" task="IR">
+<t>Chadrick Fulks escaped from a Kentucky jail.</t>
+<h>Chadrick Fulks gets the death penalty</h>
+</pair>
+<pair id="933" value="TRUE" task="IR">
+<t>Crude Oil Prices Slump</t>
+<h>Oil prices drop</h>
+</pair>
+<pair id="75" value="TRUE" task="IR">
+<t>
+At the close, the Dow Jones industrial average was down 45 points, or 0.4 percent.
+</t>
+<h>Dow Jones is down.</h>
+</pair>
+<pair id="285" value="TRUE" task="IR">
+<t>
+Security preparations kept protestors at bay at the recent G8 Summit on Sea Island (USA).
+</t>
+<h>The G8 summit took place on an American island.</h>
+</pair>
+<pair id="2018" value="FALSE" task="IR">
+<t>Microsoft browser bug may access private files.</t>
+<h>Microsoft fixes browser bug.</h>
+</pair>
+<pair id="287" value="TRUE" task="IR">
+<t>
+The G8 summit, held June 8-10, brought together leaders of the world's major industrial democracies, including Canada, France, Germany, Italy, Japan, Russia, United Kingdom, European Union and United States.
+</t>
+<h>
+Canada, France, Germany, Italy, Japan, Russia, United Kingdom and European Union participated in the G8 summit.
+</h>
+</pair>
+<pair id="311" value="TRUE" task="IR">
+<t>
+Congress president Sonia Gandhi has been allotted a separate office here as head of the national advisory panel for India's ruling coalition.
+</t>
+<h>Ms Gandhi is a member of the Congress.</h>
+</pair>
+<pair id="2022" value="FALSE" task="IR">
+<t>
+Europe is currently trying to decide whether Turkey should remain a friend, either as an EU member or as a peripheral country.
+</t>
+<h>Turkey to join the EU.</h>
+</pair>
+<pair id="305" value="TRUE" task="IR">
+<t>
+Teenage sensation Wayne Rooney powered England into the quarter-finals of Euro 2004 with two goals in Monday's 4-2 defeat of Croatia and they were joined in the last eight by champions France who beat Switzerland 3-1.
+</t>
+<h>
+France will play England in the Euro 2004 quarter-finals.
+</h>
+</pair>
+<pair id="101" value="TRUE" task="IR">
+<t>
+The emerging historical record now shows White House officials downgraded threats from al Qaeda prior to 9/11 to focus on other priorities.
+</t>
+<h>White House ignores the threat of attack</h>
+</pair>
+<pair id="313" value="TRUE" task="IR">
+<t>
+Under the roadmap agreed by Pakistan and India, the foreign secretaries would meet in New Delhi on June 27-28 followed by a meeting between foreign ministers in August.
+</t>
+<h>
+In June there will be a diplomatic meeting between Pakistan and India.
+</h>
+</pair>
+<pair id="1849" value="FALSE" task="IR">
+<t>
+MSF, a neutral group which depends primarily on private donations, has a reputation for sending medical staff into troublespots regarded by other agencies as too dangerous.
+</t>
+<h>MSF fears dangers.</h>
+</pair>
+<pair id="1815" value="FALSE" task="IR">
+<t>
+Even if terrorists were to attack on Election Day, it is highly unlikely that voting could or would be halted across the United States, lawmakers and scholars said yesterday.
+</t>
+<h>Election postponed</h>
+</pair>
+<pair id="2027" value="FALSE" task="IR">
+<t>
+Japan has been an eager participant in the Winter Olympics since the Second Games, held at St. Moritz, Switzerland, in 1928.
+</t>
+<h>Winter Olympics held in Japan.</h>
+</pair>
+<pair id="1358" value="FALSE" task="IR">
+<t>
+An increase of $10 (U.S.) a barrel in the price of crude oil -- if sustained -- could knock about half of one percentage point off global economic growth.
+</t>
+<h>Crude oil price increases.</h>
+</pair>
+<pair id="937" value="TRUE" task="IR">
+<t>
+Iraqi kidnappers have released a Lebanese construction worker kidnapped this week.
+</t>
+<h>Hostage released in Iraq.</h>
+</pair>
+<pair id="104" value="FALSE" task="IR">
+<t>
+China delayed the Security Council vote on a controversial measure to extend the immunity of US peacekeeping troops from prosecution for war crimes.
+</t>
+<h>Immunity for soldiers renewed.</h>
+</pair>
+<pair id="2121" value="FALSE" task="IR">
+<t>
+Iraqi President Saddam Hussein has promised to give any Iraqi who shoots down a US or British helicopter 50 million dinars.
+</t>
+<h>Iraq shoots down a US helicopter.</h>
+</pair>
+<pair id="261" value="TRUE" task="IR">
+<t>
+Teachers are earning credentials from Commission on Teacher Credentialing that allow them to instruct non-English speakers without being fully bilingual.
+</t>
+<h>
+Commission on Teacher Credentialing offers non-bilingual teachers credentials to work with non-English speaking students.
+</h>
+</pair>
+<pair id="2023" value="FALSE" task="IR">
+<t>
+EU membership is a strategic necessity for Turkey, as Ankara will inevitably suffer greater foreign policy problems in the future unless it makes it into the Union.
+</t>
+<h>Turkey to join the EU.</h>
+</pair>
+<pair id="277" value="TRUE" task="IR">
+<t>
+A conference on Haiti was called by Aristide in hopes of rallying world support for tightening a U.N.-ordered oil and arms embargo designed to punish the Haitian military.
+</t>
+<h>U.N. has imposed sanctions against Haiti.</h>
+</pair>
+<pair id="2138" value="FALSE" task="IR">
+<t>
+In 1995, France's President Jacques Chirac publicly predicted that an Israel-Syria agreement would be signed by the end of 1995.
+</t>
+<h>Israel signs a peace agreement.</h>
+</pair>
+<pair id="2020" value="FALSE" task="IR">
+<t>
+Germany and Spain are all sending more troops to Afghanistan.
+</t>
+<h>Spain to open embassy in Afghanistan.</h>
+</pair>
+<pair id="310" value="TRUE" task="IR">
+<t>
+Clinton ordered missile strikes against Iraq in December 1998 but did not press aggressively for UN inspectors to return.
+</t>
+<h>There was a missile attack against Iraq in 1998.</h>
+</pair>
+<pair id="2136" value="FALSE" task="IR">
+<t>
+With John Kerry newly energised for the upcoming election battle against George Bush, the secretary of state visits a beleaguered Iraqi capital where the US administration's policies are in ruins.
+</t>
+<h>George Bush visits Baghdad.</h>
+</pair>
+<pair id="2026" value="FALSE" task="IR">
+<t>Mary Kate Olsen in rehab for cocaine addiction.</t>
+<h>Mary Kate Olsen is anorexic.</h>
+</pair>
+<pair id="968" value="TRUE" task="IR">
+<t>
+A federal jury needed just four hours to return a death sentence against Chadrick Fulks, who pleaded guilty to kidnapping and carjacking resulting in the death of an Horry County woman.
+</t>
+<h>Chadrick Fulks gets the death penalty</h>
+</pair>
+<pair id="136" value="FALSE" task="IR">
+<t>
+Excessive amounts of pesticides and chemical fertilizers may be poisoning huge tracts in India.
+</t>
+<h>Pesticides ruin fruits.</h>
+</pair>
+<pair id="314" value="TRUE" task="IR">
+<t>
+But even in light of this unparalleled decline, the SPD's result in the June 13 European elections is of a qualitatively different character.
+</t>
+<h>European elections took place on June 13.</h>
+</pair>
+<pair id="320" value="FALSE" task="IR">
+<t>
+German Chancellor Gerhard Schroeder accused U.K. Prime Minister Tony Blair and Italian Prime Minister Silvio Berlusconi of allying with European conservative parties in a ''blockade'' of the German and French-backed candidate, Belgian Prime Minister Guy Verhofstadt.
+</t>
+<h>
+Schroeder doesn't support Vershoftstadt as a candidate.
+</h>
+</pair>
+<pair id="962" value="FALSE" task="IR">
+<t>Audrey Seiler faked her abduction in March.</t>
+<h>
+Abducted Audrey Seiler found four days after missing
+</h>
+</pair>
+<pair id="315" value="TRUE" task="IR">
+<t>
+The debacle marked a new low in the erosion of the SPD's popularity, which began shortly after Mr Schroeder's election in 1998. The trend accelerated after the chancellor unveiled Agenda 2010, his package of painful economic reforms, in March 2003.
+</t>
+<h>Schroeder was elected in 1998.</h>
+</pair>
+<pair id="272" value="TRUE" task="IR">
+<t>
+In his three years in exile in Washington, Aristide has been protected by the Secret Service 24 hours a day. And during his last week in exile, amid frenzied preparations for his return to Haiti, Aristide took time out to thank the Americans who helped his Administration.
+</t>
+<h>
+Aristide is going back to Haiti after being exiled for years.
+</h>
+</pair>
+<pair id="281" value="TRUE" task="IR">
+<t>
+Juan Antonio Samaranch, president of the International Olympic Committee, left Lillehammer for Sarajevo to pay tribute to the besieged host city of the 1984 Winter Games
+</t>
+<h>In 1984 the Olympic games were held in Sarajevo.</h>
+</pair>
+<pair id="291" value="TRUE" task="IR">
+<t>
+The cost of security when world leaders gather near Auchterarder for next year's G8 summit, is expected to top $150 million.
+</t>
+<h>
+More than $150 million will be probably spent for security at next year's G8 summit.
+</h>
+</pair>
+<pair id="2135" value="FALSE" task="IR">
+<t>
+Among the issues on the vice president's agenda are human rights, the environment, a possible visit by Bill Clinton to China next year, and the controversy over alleged Chinese political contributions.
+</t>
+<h>Clinton visited China.</h>
+</pair>
+<pair id="2127" value="FALSE" task="IR">
+<t>Coyote shot after biting girl in Vanier Park.</t>
+<h>Girl shot in park.</h>
+</pair>
+<pair id="959" value="FALSE" task="IR">
+<t>
+Miramax paid Moore $6 million for the film and planned a summer release date, two organizations mounted campaigns against it.
+</t>
+<h>Disney and Miramax against Fahrenheit 9/11</h>
+</pair>
+<pair id="116" value="TRUE" task="IR">
+<t>
+Statistically, anorexia strikes more than one in every 100 teen-age girls and young women.
+</t>
+<h>Anorexia strikes teens.</h>
+</pair>
+<pair id="2017" value="FALSE" task="IR">
+<t>
+In order to concentrate on the upcoming release of the Pentium 4, Intel delays Pentium III 1.13GHz relaunch.
+</t>
+<h>Intel delays Pentium 4 release.</h>
+</pair>
+<pair id="294" value="TRUE" task="IR">
+<t>
+The three-day G8 summit will take place in Scotland.
+</t>
+<h>The G8 summit will last three days.</h>
+</pair>
+<pair id="1814" value="TRUE" task="IR">
+<t>
+Afghanistan's first post-Taliban elections have been delayed for a second time amid increasing violence towards voters and officials, it was announced on Friday.
+</t>
+<h>Election postponed</h>
+</pair>
+<pair id="934" value="FALSE" task="IR">
+<t>
+The government announced last week that it plans to raise oil prices.
+</t>
+<h>Oil prices drop</h>
+</pair>
+<pair id="936" value="FALSE" task="IR">
+<t>
+Britney Spears is getting hitched for the second time this year - this time to a professional dancer father whose girlfriend of three years is pregnant.
+</t>
+<h>Britney Spears is pregnant</h>
+</pair>
+<pair id="325" value="TRUE" task="IR">
+<t>
+Across the continent, voters voiced discontent by casting ballots for opposition and fringe parties. But most of the 350 million EU citizens eligible to vote didn't bother to even cast a protest ballot.
+</t>
+<h>
+Some people voted for opposition parties to voice their discontent.
+</h>
+</pair>
+<pair id="1847" value="FALSE" task="IR">
+<t>
+Crude oil prices jumped to record levels yesterday as already jittery international oil markets reacted to turmoil at Russian's largest petroleum producer.
+</t>
+<h>Oil prices hit record low.</h>
+</pair>
+<pair id="2129" value="FALSE" task="IR">
+<t>
+A Vancouver wildlife conservation officer shot and killed an urban coyote in a Kitsilano park after the animal bit a child and attacked pets.
+</t>
+<h>Girl shot in a park.</h>
+</pair>
+<pair id="938" value="FALSE" task="IR">
+<t>
+Terrorists in Iraq killed an American soldier they have held hostage since early April because the U.S. government did not change its policy in Iraq.
+</t>
+<h>Hostage released in Iraq.</h>
+</pair>
+<pair id="82" value="TRUE" task="IR">
+<t>
+The Los Angeles Lakers won their 3rd straight NBA championship Wednesday night, beating the New Jersey Nets 113-107, sweeping that 4-game championship series.
+</t>
+<h>Lakers win the championship.</h>
+</pair>
+<pair id="303" value="TRUE" task="IR">
+<t>
+Teenage sensation Wayne Rooney powered England into the quarter-finals of Euro 2004 with two goals in Monday's 4-2 defeat of Croatia and they were joined in the last eight by champions France who beat Switzerland 3-1.
+</t>
+<h>England will play the quarter-finals of Euro 2004.</h>
+</pair>
+<pair id="103" value="FALSE" task="IR">
+<t>
+The White House ignores Zinni's opposition to the Iraq War.
+</t>
+<h>White House ignores the threat of attack</h>
+</pair>
+<pair id="134" value="FALSE" task="IR">
+<t>
+The Bugbear virus infects computers running the Windows operating system and an unpatched version of Internet Explorer 5.5.
+</t>
+<h>Virus infects thousands of computers.</h>
+</pair>
+<pair id="961" value="TRUE" task="IR">
+<t>
+Seiler was reported missing March 27 and was found four days later in a marsh near her campus apartment.
+</t>
+<h>
+Abducted Audrey Seiler found four days after missing.
+</h>
+</pair>
+<pair id="266" value="TRUE" task="IR">
+<t>
+Three of its five permanent members, France, Russia and China, are pushing the U.N. Security Council to lift the embargo on Iraq.
+</t>
+<h>
+France, Russia and China want to put an end to sanctions against Iraq.
+</h>
+</pair>
+<pair id="1848" value="FALSE" task="IR">
+<t>
+MSF was unnerved by a Taliban accusation that its members were spying for the U.S.
+</t>
+<h>Taliban spies on U.S.</h>
+</pair>
+<pair id="321" value="TRUE" task="IR">
+<t>
+German Chancellor Gerhard Schroeder accused U.K. Prime Minister Tony Blair and Italian Prime Minister Silvio Berlusconi of allying with European conservative parties in a ''blockade'' of the German and French-backed candidate, Belgian Prime Minister Guy Verhofstadt.
+</t>
+<h>
+According to Schroeder, Blair and Berlusconi are actively opposing Verhofstadt.
+</h>
+</pair>
+<pair id="133" value="TRUE" task="IR">
+<t>
+An Internet-borne infection incapacitated tens of thousands of computers on Tuesday, snarling company networks and frustrating home users as it spread across the globe.
+</t>
+<h>Virus infects thousands of computers</h>
+</pair>
+<pair id="278" value="TRUE" task="IR">
+<t>
+The council has prohibited any travel outside of Haiti by all officers of the Haitian military and police and all major participants in the September, 1991, coup.
+</t>
+<h>Haitian military is not allowed to leave Haiti.</h>
+</pair>
+<pair id="965" value="FALSE" task="IR">
+<t>
+Rios had arrested the student in April for interfering with him and another officer as they answered a police call about a loud party.
+</t>
+<h>Ex-cop Rios killed student</h>
+</pair>
+<pair id="2139" value="FALSE" task="IR">
+<t>
+Turkey was not in favor of "the United States using Turkish bases for conflicts not affecting Turkey."
+</t>
+<h>The United States uses Turkish military bases.</h>
+</pair>
+<pair id="550" value="FALSE" task="IR">
+<t>
+There are two sides to the bloody conflict in Chechnya, but only one is legitimate.
+</t>
+<h>Two sides near agreement on Chechnya's fate.</h>
+</pair>
+<pair id="25" value="FALSE" task="IR">
+<t>
+The film was the evening's big winner, bagging the prestigious best picture Oscar to bring its tally to six.
+</t>
+<h>Two films won six Oscars.</h>
+</pair>
+<pair id="2123" value="FALSE" task="IR">
+<t>
+A US Patriot battery shoots down an Iraqi missile in Kuwait.
+</t>
+<h>Iraq shoots down a US helicopter.</h>
+</pair>
+<pair id="2122" value="FALSE" task="IR">
+<t>
+Iraq claimed Tuesday to have shot down a second U.S. spy plane in less than a month.
+</t>
+<h>Iraq shoots down U.S. helicopter.</h>
+</pair>
+<pair id="1816" value="FALSE" task="IR">
+<t>
+The U.S. and British governments are gathering evidence to determine whether genocide is being committed in the Darfur region of Sudan, where an estimated 30,000 people have been killed and more than a million have fled their homes.
+</t>
+<h>
+U.S. and British governments are determining to kill 30,000 people in Sudan.
+</h>
+</pair>
+<pair id="49" value="TRUE" task="IR">
+<t>
+Kidnappings in Argentina have increased more than fivefold in the last two years, official figures show.
+</t>
+<h>Argentina sees upsurge in kidnappings.</h>
+</pair>
+<pair id="283" value="TRUE" task="IR">
+<t>
+The Lillehammer Olympic Games organizing committee said 65 countries have entered, matching the number of nations at the 1992 Winter Games in Albertville, France.
+</t>
+<h>
+In the Lillehammer Olympic Games there are as many participating countries as in Albertville in 1992.
+</h>
+</pair>
+<pair id="308" value="FALSE" task="IR">
+<t>
+Former president Bill Clinton said he agreed with President Bush's decision to confront Iraq about its potential weapons programmes, but thought the administration erred in starting a war in 2003 rather than allowing UN weapons inspectors longer to carry out their work.
+</t>
+<h>
+Clinton agrees with Bush's decision to start the war in 2003.
+</h>
+</pair>
+<pair id="264" value="TRUE" task="IR">
+<t>
+Iraq has been under a stringent economic embargo since its August 1990 invasion of Kuwait and relief workers are increasingly concerned about the health of its population.
+</t>
+<h>An embargo was imposed on Iraq in 1990.</h>
+</pair>
+</entailment-corpus>
